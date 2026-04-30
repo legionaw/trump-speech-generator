@@ -1,0 +1,128 @@
+# List of fired like items #
+
+This document lists items that are "fired like" in the context of the President Donald Trump firing someone. The list includes both canonical items (from news reports) and creative, non-canonical options, organized by category. For example, "he is fired like a dog" or "he is fired like a Mars-rover with a dead battery". The list is not exhaustive but provides a variety of metaphors and similes that have been used or could be used to describe the act of firing someone in a dramatic or humorous way.
+
+## Animals
+- Fired like a dog
+- Fired like a cat out of a bag
+- Fired like a bird with clipped wings
+- Fired like a fish out of water
+- Fired like a horse out of the barn
+- Fired like a rabbit out of a hat
+- Fired like a lion out of a cage
+- Fired like a monkey out of a tree
+- Fired like a snake out of a basket
+- Fired like a bear out of hibernation
+- Fired like a wolf out of the pack
+- Fired like a fox out of the henhouse
+- Fired like a deer out of the headlights
+- Fired like a squirrel out of a tree
+- Fired like a turtle out of its shell
+- Fired like a cow out of the barn
+- Fired like a pig out of a pen
+- Fired like a chicken out of a coop
+- Fired like a duck out of water
+
+## Objects
+- Fired like a rocket with no fuel
+- Fired like a cannon with no cannonballs
+- Fired like a gun with no bullets
+- Fired like a car with no gas
+- Fired like a plane with no wings
+- Fired like a boat with no oars
+- Fired like a train with no tracks
+- Fired like a computer with no power
+- Fired like a phone with no signal
+- Fired like a TV with no signal
+- Fired like a lamp with no lightbulb
+- Fired like a clock with no hands
+- Fired like a camera with no film
+- Fired like a microphone with no sound
+- Fired like a printer with no ink
+- Fired like a blender with no blades
+- Fired like a vacuum with no suction
+- Fired like a toaster with no heat
+- Fired like a refrigerator with no power
+- Fired like a microwave with no food
+- Fired like a dishwasher with no water
+- Fired like a washing machine with no clothes
+- Fired like a dryer with no heat
+- Fired like a lawnmower with no grass
+- Fired like a snowblower with no snow
+- Fired like a leaf blower with no leaves
+- Fired like a chainsaw with no chain
+- Fired like a hammer with no nails
+- Fired like a screwdriver with no screws
+- Fired like a wrench with no bolts
+- Fired like a saw with no blade
+- Fired like a drill with no bit
+- Fired like a sledgehammer with no handle
+- Fired like a jackhammer with no power
+- Fired like a bulldozer with no tracks
+- Fired like a forklift with no forks
+- Fired like a crane with no hook
+- Fired like a bulldozer with no blade
+- Fired like a dump truck with no bed
+- Fired like a cement mixer with no cement
+- Fired like a backhoe with no bucket
+- Fired like a grader with no blade
+- Fired like a scraper with no blade
+- Fired like a roller with no drum
+- Fired like a paver with no asphalt
+- Fired like a snowplow with no plow
+- Fired like a street sweeper with no brushes
+- Fired like a garbage truck with no garbage
+- Fired like a recycling truck with no recyclables
+- Fired like a tow truck with no tow
+- Fired like a fire truck with no water
+- Fired like an ambulance with no patients
+- Fired like a police car with no sirens
+- Fired like a taxi with no passengers
+- Fired like a bus with no passengers
+- Fired like a train with no passengers
+- Fired like a plane with no passengers
+- Fired like a ship with no crew
+- Fired like a submarine with no crew
+- Fired like a space shuttle with no astronauts
+- Fired like a Mars rover with a dead battery
+- Fired like a satellite with no signal
+- Fired like a drone with no propellers
+- Fired like a robot with no programming
+- Fired like a 3D printer with no filament
+- Fired like a CNC machine with no material
+- Fired like a laser cutter with no power
+- Fired like a water cannon with no water
+- Fired like a flamethrower with no fuel
+- Fired like a firework with no fuse
+- Fired like a sparkler with no spark
+- Fired like a smoke bomb with no smoke
+- Fired like a grenade with no pin
+- Fired like a bomb with no explosion
+- Fired like a missile with no target
+- Fired like a torpedo with no warhead
+- Fired like a nuclear bomb with no yield
+- Fired like a hydrogen bomb with no fusion
+- Fired like a neutron bomb with no radiation
+- Fired like a dirty bomb with no radioactive material
+- Fired like a cluster bomb with no submunitions
+- Fired like a landmine with no trigger
+- Fired like a booby trap with no trap
+- Fired like a trapdoor with no door
+- Fired like a bear trap with no jaws
+- Fired like a mousetrap with no bait
+- Fired like a snare with no rope
+- Fired like a net with no mesh
+- Fired like a trap with no trap
+- Fired like a pit with no bottom
+- Fired like a hole with no ground
+- Fired like a space shuttle with a broken engine
+- Fired like a rocket with a broken engine
+- Fired like a car with a broken engine
+- Fired like a plane with a broken engine
+- Fired like a boat with a broken engine
+- Fired like a train with a broken engine
+- Fired like a computer with a broken processor
+- Fired like a phone with a broken screen
+- Fired like a TV with a broken screen
+- Fired like a lamp with a broken bulb
+- Fired like a clock with a broken mechanism

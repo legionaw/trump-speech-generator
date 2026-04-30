@@ -1,0 +1,2 @@
+* Education Secretary fired because: he ruined a student's sci experiment at sci show, got too graphic in sex ed class, messed up school's computers and "accidentally" gave everyone an A-plus grade because he was so incompetent, et cetera.
+* Defense Secretary and Chairman fired because: they were caught conspiring with the mob; got leaked because they forgot to close the doors. They claimed they were just kidding around, but the evidence was pretty damning.
