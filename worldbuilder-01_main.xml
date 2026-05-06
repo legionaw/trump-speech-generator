@@ -1,0 +1,77 @@
+<worldbuilder_main>
+	
+	# World setting
+	<world_setting>
+		<summary> <!--A brief overview of the world setting, providing context for the story.-->
+			The year is always 2039. The United States has a massive "Space Navy" while it has active colonies on Luna, Mars, Alpha Centauri, and Rigel, along with a space station orbiting Jupiter called the Jupiter Station (a relatively large space station orbiting Jupiter, serving as a hub of commerce and trade between Earth and Alpha Centauri, with a few thousand permanent residents aboard. The Jupiter Station is also a popular stopover point for travelers between the two systems due to its strategic location and amenities).
+		</summary>
+		<time_period> Future (2039) </time_period> <!--Explanation: The time period in which the story is set, such as "Past", "Present", "Future", or a specific year or era.-->
+		<location> Earth, Luna, Mars, Jupiter Station, Alpha Centauri, Rigel </location> <!--Explanation: The primary locations where the story takes place. This can include specific cities, planets, space stations, or any relevant settings.-->
+		<technology_level> Advanced (Space Navy, starship technology, alien diplomacy) </technology_level> <!--Explanation: The level of technological advancement in the story's setting, such as "Primitive", "Medieval", "Modern", "Advanced", or specific technologies that are relevant to the story.-->
+		<political_climate> Tense (due to interstellar conflicts and domestic issues) </political_climate> <!--Explanation: The overall political atmosphere in the story's setting, such as "Stable", "Tense", "Chaotic", or any specific political conditions that are relevant to the story.-->
+		<social_climate> Divided (between Earth and space colonies) </social_climate> <!--Explanation: The general social atmosphere in the story's setting, such as "Harmonious", "Divided", "Rebellious", or any specific social conditions that are relevant to the story.-->
+	</world_setting>
+	
+	# Social media registry
+	<social_media_registry>
+		<social_media_accounts>
+			<!--People-->
+			<social_media_account_entry id="character:101" type="person" name="Donald Trump" role="President of the United States" posted_from="Earth" use_emojis="no"> <!--Donald Trump-->
+				<behavior_tone_constraints> Use confident, superlative-heavy language. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @realDonaldTrump </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="character:102" type="person" name="Elon Musk" role="CEO of SpaceX" posted_from="Earth" use_emojis="yes"> <!--Elon Musk-->
+				<behavior_tone_constraints> Use witty, tech-savvy language. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @ElonMusk </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="character:103" type="person" name="Dr. Jane Smith" role="Space scientist" posted_from="Alpha Centauri" use_emojis="yes"> <!--Dr. Jane Smith-->
+				<behavior_tone_constraints> Use scientific, analytical language. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @DrJaneSmith </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="character:104" type="person" name="Admiral John Doe" role="Space Navy" posted_from="Earth" use_emojis="no"> <!--Admiral John Doe-->
+				<behavior_tone_constraints> Use authoritative, military tone. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @AdmiralJohnDoe </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="character:105" type="person" name="Colonel Sarah Lee" role="Luna colony" posted_from="Luna" use_emojis="yes"> <!--Colonel Sarah Lee-->
+				<behavior_tone_constraints> Use pragmatic, leadership tone. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @ColonelSarahLee </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="character:106" type="person" name="Dr. Emily Chen" role="Alpha Centauri scientist" posted_from="Alpha Centauri" use_emojis="yes"> <!--Dr. Emily Chen-->
+				<behavior_tone_constraints> Use scientific, analytical language. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @DrEmilyChen </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="character:107" type="person" name="Mark Thompson" role="Political analyst" posted_from="Earth" use_emojis="no"> <!--Mark Thompson-->
+				<behavior_tone_constraints> Use analytical, political commentary tone. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @MarkThompson </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="character:108" type="person" name="Lisa Rodriguez" role="Space strategist" posted_from="Alpha Centauri" use_emojis="yes"> <!--Lisa Rodriguez-->
+				<behavior_tone_constraints> Use strategic, forward-thinking language. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @Lisa_Rodriguez </social_media_handle>
+			</social_media_account_entry>
+			
+			<!--Establishments-->
+			<social_media_account_entry id="establishment:jupiter_pub_and_grill" type="establishment" name="Jupiter Pub and Grill" role="Bar and grill" posted_from="Jupiter Station" use_emojis="yes"> <!--Jupiter Pub and Grill-->
+				<behavior_tone_constraints> Must include a themed "Drink special." </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @JupiterPub_and_Grill </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="establishment:craters_edge_pub" type="establishment" name="Craters Edge Pub" role="Pub" posted_from="Luna" use_emojis="yes"> <!--Craters Edge Pub-->
+				<behavior_tone_constraints> Must include a themed "Menu item." </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @CratersEdgePub </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="establishment:alpha_pub_hub" type="establishment" name="Alpha Pub Hub" role="Pub" posted_from="Alpha Centauri" use_emojis="yes"> <!--Alpha Pub Hub-->
+				<behavior_tone_constraints> Must include a themed "Drink special." </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @Alpha_Pub_Hub </social_media_handle>
+			</social_media_account_entry>
+			
+			<!--News organizations-->
+			<social_media_account_entry id="organization:cnn" type="news_organization" name="CNN Space News" role="News organization" posted_from="Earth" use_emojis="yes"> <!--CNN Space News-->
+				<behavior_tone_constraints> Use formal, journalistic tone. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @CNN_SpaceNews </social_media_handle>
+			</social_media_account_entry>
+			<social_media_account_entry id="organization:fox" type="news_organization" name="Fox Space News" role="News organization" posted_from="Earth" use_emojis="yes"> <!--Fox Space News-->
+				<behavior_tone_constraints> Use sensational, opinionated tone. </behavior_tone_constraints>
+				<social_media_handle platform="Twitter/X" audience="public"> @Fox_SpaceNews </social_media_handle>
+			</social_media_account_entry>
+		</social_media_accounts>
+	</social_media_registry>
+</worldbuilder_main>

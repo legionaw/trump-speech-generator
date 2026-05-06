@@ -1,0 +1,300 @@
+<character_data character_id="101" character_name_id="donald_trump" character_full_name="Donald John Trump" character_type="real_person" appears_on_panel_discussions="no">
+	<character_name_data>
+		<full_name> Donald John Trump </full_name> <!--Explanation: The long form of the character's full name, used in formal contexts (e.g. Alice Serena Hyatt Longworth-Woodward).-->
+		<full_name_short_form> Donald Trump </full_name_short_form> <!--Explanation: The short form of the character's full name, used in informal contexts (e.g. Alice Longworth-Woodward).-->
+		<first_name> Donald </first_name>
+		<middle_name> John </middle_name>
+		<last_name> Trump </last_name>
+		<maiden_name> N/A </maiden_name> <!--Explanation: The maiden name of the character, used for example, to indicate the character's family background or to distinguish them from other characters with similar names. Set to "N/A" if not applicable.-->
+		<nicknames> <!--Explanation: Nicknames that are given and used by other characters in the story for this character.-->
+			<nickname_entry>
+				<nickname> DJT </nickname>
+				<nickname_used_by> Supporters </nickname_used_by>
+				<nickname_description> Abbreviated form of his full name, commonly used by supporters and media. </nickname_description>
+			</nickname_entry>
+		</nicknames>
+	</character_name_data>
+	
+	<character_demographic_data>
+		<sex> Male </sex>
+		<sexual_orientation> Heterosexual </sexual_orientation>
+		<marital_status> Married </marital_status> <!--Explanation: The marital status of the character, such as "Single", "Married", "Divorced", or any other status that is relevant to the character's role in the story.-->
+		<marital_spouse> Melania Trump </marital_spouse> <!--Explanation: The name of the character's spouse, if applicable; otherwise, set to "N/A" if not applicable.-->
+		<heritage> White/Caucasian </heritage>
+		<age as_of_year="2039" type="chronological"> 93 </age> <!--Explanation: The as_of_date attribute indicates the date as of which the age is calculated; 16 December 2040 in this case is the date of the first scene in the story-->
+		<age as_of_year="2039" type="biological" reason="due to secret technology"> 70 </age> <!--Explanation: The as_of_date attribute indicates the date as of which the age is calculated; 16 December 2040 in this case is the date of the first scene in the story. The reason attribute provides an explanation for why the character's biological age may differ from their chronological age, such as "due to secret technology", "due to a medical condition", or any other relevant reason.-->
+		<age_group> Senior </age_group> <!--Criteria: Age 1-12 - Children; age 13-19 - Teenagers; age 20-34 - Young adults; age 35-49 - Middle-aged adults; age 50-64 - Older adults; age 65+ - Seniors.-->
+		<date_of_birth> 14 June 1946 </date_of_birth>
+		<place_of_birth> Queens, New York City, New York, USA </place_of_birth>
+	</character_demographic_data>
+	
+	<roles> Husband of Melania Trump, former President of the United States, President of the United Earth, CEO of Trump Organization, politician, businessman </roles>
+	
+	<character_employment_data>
+		<titles> <!--Explanation: The titles of the character, such as "Detective", "Doctor", "Professor", "CEO", or any other title that is relevant to the character's role in the story; otherwise, set to "N/A" if not applicable.-->
+			<title_entry>
+				<title> President of the United Earth </title>
+				<title_description> The leader of the United Earth, responsible for overseeing global governance and international relations. </title_description>
+			</title_entry>
+			<title_entry>
+				<title> Former President of the United States </title>
+				<title_description> The former leader of the United States, having served as the 45th, 47th, and 49th President from 2017 to 2021, 2025 to 2029, and 2033-2038 (before Earth unification), respectively. </title_description>
+			</title_entry>
+			<title_entry>
+				<title> CEO of Trump Organization </title>
+				<title_description> The chief executive officer of the Trump Organization, a multinational conglomerate with interests in real estate, entertainment, and various other industries. </title_description>
+			</title_entry>
+		</titles>
+		<occupation> Businessman </occupation> <!--Explanation: The occupation of the character, such as "Detective", "Doctor", "Professor", "CEO", "High school student", or any other occupation that is relevant to the character's role in the story.-->
+	</character_employment_data>
+	
+	<primary_location> Earth </primary_location>
+	
+	<loosely_modeled_on> Donald Trump </loosely_modeled_on> <!--Explanation: Indicates if the character is loosely modeled on a real person or fictional character. Set to "N/A" by default.-->
+	
+	<character_appearance_data>
+		<body_attributes>
+			<eye_color> Blue </eye_color>
+			<hair_color> Blonde </hair_color>
+			<typical_hair_length> Medium </typical_hair_length> <!--Explanation: The typical hair length of the character, such as "Short", "Medium", "Long", or any other description that is relevant to the character's appearance.-->
+			<skin_tone> Fair </skin_tone>
+			<height> 6'3'' (190 cm) </height> <!--Explanation: The value for this attribute to describe the character's height is given in the following format: "X'Y'' (Z cm)", where X is the number of feet, Y is the number of inches, and Z is the height in centimeters.-->
+			<weight> 240 lbs (109 kg) </weight> <!--Explanation: The value for this attribute to describe the character's weight is given in the following format: "X lbs (X kg)".-->
+			<body_type> Tall and broad-shouldered </body_type> <!--Explanation: The body type of the character, such as "Slim", "Athletic", "Curvy", "Muscular", or any other description that is relevant to the character's appearance.-->
+		</body_attributes>
+		<body_features> <!--Explanation: Describes any unique or distinguishing features of the character's body, such as scars, tattoos, birthmarks, or other notable attributes.-->
+			<body_feature_entry>
+				<feature_name> Distinctive hairstyle </feature_name>
+				<feature_description> Donald Trump is known for his unique and recognizable hairstyle, which is often described as a comb-over. </feature_description>
+			</body_feature_entry>
+		</body_features>
+		<posture>
+			<posture_description> Upright and confident </posture_description>
+		</posture>
+		<expressiveness>
+			<expressiveness_description> Expressive and often animated in speech and gestures </expressiveness_description>
+		</expressiveness>
+		<attire_and_style>
+			<attire_and_style_description> Donald Trump is known for his distinctive and often formal attire, typically wearing tailored suits, ties, and dress shoes. </attire_and_style_description>
+			<attire_and_style_traits>
+				<attire_and_style_trait>
+					<trait_name> Formal attire </trait_name>
+					<trait_description> Donald Trump frequently wears formal clothing, including suits and ties, reflecting a professional and authoritative image.</trait_description>
+				</attire_and_style_trait>
+			</attire_and_style_traits>
+		</attire_and_style>
+		<signature_items> <!--Explanation: Signature items are the objects that the character always have, like a camera, a locket, or a weapon, for example.-->
+			<signature_items_description> Donald Trump is often seen with signature items that reflect his personality and status. </signature_items_description>
+			<signature_item_entry>
+				<signature_item_name> Trump Organization pin </signature_item_name>
+				<signature_item_description> A pin representing the Trump Organization, often worn on the character's lapel. </signature_item_description>
+			</signature_item_entry>
+		</signature_items>
+	</character_appearance_data>
+	
+	<personality_and_speech_data>
+		<personality_description> Donald Trump is known for his confident and assertive personality, often displaying a strong sense of self-assurance and determination. </personality_description>
+		<personality_traits>
+			<personality_trait_entry>
+				<personality_trait_name> Confident </personality_trait_name>
+				<personality_trait_description> Donald Trump exhibits a high level of confidence in his actions and decisions, often projecting an image of authority and self-assurance. </personality_trait_description>
+			</personality_trait_entry>
+			<personality_trait_entry>
+				<personality_trait_name> Assertive </personality_trait_name>
+				<personality_trait_description> Donald Trump is assertive in his communication style, often expressing his opinions and desires in a direct and forceful manner. </personality_trait_description>
+			</personality_trait_entry>
+		</personality_traits>
+		<profanity_tendency> <!--Explanation: Profanity tendency is a measure of how likely the character is to use profanity in their speech. It is on the scale of 0 to 5, where 0 means the character never uses profanity and 5 means the character uses profanity very frequently.-->
+			<profanity_tendency_description> Donald Trump has a low profanity tendency, rarely using profanity in his speech. He prefers to express himself in a more articulate and polished manner, which is consistent with his confident and assertive personality. </profanity_tendency_description> <!--Example: "Jack has a moderate profanity tendency, using profanity occasionally in his speech. His use of profanity is often a reflection of his rebellious nature and his desire to express himself in a more edgy and authentic way. However, he is also mindful of his image and may choose to limit his use of profanity in certain social situations." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			<profanity_tendency_entry>
+				<profanity_tendency_level> 1 </profanity_tendency_level> <!--Example: "5".-->
+				<profanity_tendency_example> Donald Trump might use mild profanity like "damn" or "hell" on rare occasions, but it is not a regular part of his speech. However, in extreme situations, he may use stronger language to express his emotions. </profanity_tendency_example> <!--Example: "Jack might use mild to moderate profanity like "damn", "hell", or "shit" in casual conversations with his peers, especially when he's frustrated or trying to make a point. However, in extreme situations, he may use stronger language to express his emotions." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			</profanity_tendency_entry>
+		</profanity_tendency>
+		<speech_style>
+			<speech_style_description> Donald Trump has a distinctive speech style characterized by repetition, emphasis on key points, and a persuasive tone. </speech_style_description>
+			<speech_style_traits>
+				<speech_style_trait>
+					<speech_style_trait_name> Repetitive </speech_style_trait_name>
+					<speech_style_trait_description> Donald Trump often repeats key phrases and points to reinforce his message and ensure it resonates with his audience. </speech_style_trait_description>
+				</speech_style_trait>
+				<speech_style_trait>
+					<speech_style_trait_name> Emphatic </speech_style_trait_name>
+					<speech_style_trait_description> Donald Trump emphasizes certain words and phrases to convey his passion and conviction, often using a forceful tone to make his points. </speech_style_trait_description>
+				</speech_style_trait>
+				<speech_style_trait>
+					<speech_style_trait_name> Persuasive </speech_style_trait_name>
+					<speech_style_trait_description> Donald Trump employs a persuasive speech style, using rhetoric and emotional appeals to influence his audience and garner support for his ideas. </speech_style_trait_description>
+				</speech_style_trait>
+			</speech_style_traits>
+		</speech_style>
+		<quirks> <!--Explanation: Quirks, for the purpose of this section, are defined as odd habits or unique behaviors.-->
+			<quirk_entry>
+				<quirk_name> Hand gestures and facial expressions </quirk_name>
+				<quirk_description> Donald Trump has a tendency to use hand gestures and facial expressions to emphasize his points and convey his emotions. </quirk_description>
+			</quirk_entry>
+			<quirk_entry>
+				<quirk_name> Use of superlatives </quirk_name>
+				<quirk_description> Donald Trump often uses superlatives in his speech, such as "best", "greatest", or "tremendous", to describe himself, his achievements, or his ideas. </quirk_description>
+			</quirk_entry>
+		</quirks>
+		<flaws> <!--Explanation: Flaws, for the purpose of this section, are defined as the internal "cracks" that make them human.-->
+			<flaw_entry>
+				<flaw_name> Impulsiveness </flaw_name>
+				<flaw_description> Donald Trump can be impulsive in his decision-making, sometimes acting without fully considering the consequences. </flaw_description>
+			</flaw_entry>
+			<flaw_entry>
+				<flaw_name> Stubbornness </flaw_name>
+				<flaw_description> Donald Trump can be stubborn and resistant to changing his opinions or admitting when he is wrong. </flaw_description>
+			</flaw_entry>
+				<flaw_entry>
+				<flaw_name> Narcissism </flaw_name>
+				<flaw_description> Donald Trump has a tendency towards narcissism, often displaying an excessive sense of self-importance and a need for admiration. </flaw_description>
+			</flaw_entry>
+				<flaw_entry>
+				<flaw_name> Lack of empathy </flaw_name>
+				<flaw_description> Donald Trump can sometimes show a lack of empathy towards others, particularly those who disagree with him or are perceived as adversaries. </flaw_description>
+			</flaw_entry>
+				<flaw_entry>
+				<flaw_name> Insecurity </flaw_name>
+				<flaw_description> Despite his confident exterior, Donald Trump may have underlying insecurities that drive his need for validation and admiration. </flaw_description>
+			</flaw_entry>
+				<flaw_entry>
+				<flaw_name> Arrogance </flaw_name>
+				<flaw_description> Donald Trump can exhibit arrogance, often overestimating his abilities and underestimating the challenges he faces. </flaw_description>
+			</flaw_entry>
+				<flaw_entry>
+				<flaw_name> Lack of self-awareness </flaw_name>
+				<flaw_description> Donald Trump may lack self-awareness at times, leading to actions or statements that can be perceived as tone-deaf or inappropriate. </flaw_description>
+			</flaw_entry>
+		</flaws>
+	</personality_and_speech_data>
+	
+	<character_sensory_and_lifestyle_profile>
+		<drinking_preferences>
+			<drinking_preferences_description> Donald Trump has a preference for non-alcoholic beverages, particularly Diet Coke. </drinking_preferences_description>
+			<drinking_preference_entry> <!--Explanation: An entry should specify a beverage like, for example, beer, rather than just generic alcohol, and a description of the character's preference.-->
+				<beverage> Diet Coke </beverage>
+				<preference_description> Donald Trump is known for his fondness for Diet Coke, often consuming several cans throughout the day. </preference_description>
+			</drinking_preference_entry>
+		</drinking_preferences>
+		<food_preferences>
+			<food_preferences_description> Donald Trump has a preference for fast food and classic American cuisine. </food_preferences_description>
+			<food_preference_entry>
+				<cuisine> Fast food </cuisine>
+				<preference_description> Donald Trump is known for his fondness for fast food, particularly McDonald's and KFC. </preference_description>
+			</food_preference_entry>
+		</food_preferences>
+		<music_preferences>
+			<music_preferences_description> Donald Trump has a preference for classic rock and pop music. </music_preferences_description>
+			<music_preference_entry>
+				<genre> Classic rock </genre>
+				<preference_description> Donald Trump enjoys classic rock music, particularly from the 1970s and 1980s. </preference_description>
+			</music_preference_entry>
+		</music_preferences>
+		<film_preferences> <!--Explanation: Film preferences including, for example, favorite genres or specific film/shows the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<film_preferences_description> Donald Trump has a preference for classic American films and action movies. </film_preferences_description>
+			<film_preference_entry>
+				<genre> Action </genre>
+				<preference_description> Donald Trump enjoys action movies, particularly those with patriotic themes. </preference_description>
+			</film_preference_entry>
+		</film_preferences>
+		<literature_preferences> <!--Explanation: Literature preferences including, for example, favorite genres or specific books the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<literature_preferences_description> Donald Trump has a preference for business and self-help literature. </literature_preferences_description>
+			<literature_preference_entry>
+				<genre> Business </genre>
+				<preference_description> Donald Trump enjoys reading books on business strategies and entrepreneurship. </preference_description>
+			</literature_preference_entry>
+		</literature_preferences>
+		<video_game_preferences> <!--Explanation: Video game preferences including, for example, favorite genres or specific games the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<video_game_preferences_description> N/A </video_game_preferences_description>
+			<video_game_preference_entry>
+				<genre> N/A </genre>
+				<preference_description> N/A </preference_description>
+			</video_game_preference_entry>
+		</video_game_preferences>
+		<hobbies>
+			<hobbies_description> Donald Trump has a preference for golf and other leisure activities. </hobbies_description>
+			<hobbies_entry>
+				<hobby> Golf </hobby>
+				<hobby_description> Donald Trump enjoys playing golf and often spends time at his golf courses. </hobby_description>
+			</hobbies_entry>
+		</hobbies>
+		<interests>
+			<interests_description> Donald Trump has a preference for business, politics, and media. </interests_description>
+			<interest> Business </interest>
+			<interest> Politics </interest>
+			<interest> Media </interest>
+		</interests>
+	</character_sensory_and_lifestyle_profile>
+	
+	<character_goal_and_motivation_data>
+		<goals_and_motivations_description> Donald Trump is driven by a desire for success, recognition, and influence. </goals_and_motivations_description>
+		<internal_goal> <!--Explanation: What they want to feel or find internally—e.g., peace, belonging.-->
+			<internal_goal_entry>
+				<internal_goal_description> Achieve personal fulfillment and recognition </internal_goal_description> <!--Explanation: A short description of the internal goal.-->
+				<goal_motivation> Donald Trump's internal goal of achieving personal fulfillment and recognition motivates him to pursue external goals that enhance his public image and influence. </goal_motivation> <!--Explanation: A detailed description of how this internal goal motivates the character to pursue their external goals and navigate their relationships.-->
+			</internal_goal_entry>
+		</internal_goal>
+		<external_goal>
+			<external_goal_entry>
+				<external_goal_description> Achieve political power and influence </external_goal_description> <!--Explanation: A short description of the external goal.-->
+				<goal_motivation> Donald Trump's external goal of achieving political power and influence motivates him to leverage his business acumen and media presence to gain support and recognition. </goal_motivation> <!--Explanation: A detailed description of how this external goal motivates the character to pursue their internal goals and navigate their relationships.-->
+			</external_goal_entry>
+		</external_goal> <!--Explanation: The tangible thing they are trying to achieve in the world.-->
+		<the_why> <!--Explanation: "The Why": The specific reason or trauma that fuels these goals.-->
+			<the_why_entry>
+				<reason_description> Desire for success and recognition </reason_description> <!--Explanation: A short description of the reason behind the goal.-->
+				<reason_motivation> Donald Trump's desire for success and recognition motivates him to pursue ambitious goals and maintain a high public profile. </reason_motivation> <!--Explanation: A detailed description of how this reason motivates the character to pursue their goals.-->
+			</the_why_entry>
+		</the_why>
+		<aspirations>
+			<aspiration>
+				<aspiration_description> Achieve political power and influence </aspiration_description> <!--Explanation: Short description of the aspiration, such as "Become a detective", "Find true love", "Achieve world peace", or any other aspiration that is relevant to the character's role in the story.-->
+				<aspiration_motivation> Donald Trump's aspiration to achieve political power and influence motivates him to leverage his business acumen and media presence to gain support and recognition. </aspiration_motivation> <!--Explanation: A detailed description of how this aspiration motivates the character to pursue their goals.-->
+			</aspiration>
+		</aspirations>
+	</character_goal_and_motivation_data>
+	
+	<character_background>
+		<character_background_description> Donald Trump is a prominent American businessman, television personality, and politician who served as the 45th, 47th, and 49th President of the United States and is currently serving as the President of the United Earth. </character_background_description>
+		<family_background> Donald Trump was born into a wealthy family, with his father, Fred Trump, being a successful real estate developer. </family_background>
+		<childhood_and_upbringing> Donald Trump grew up in Queens, New York, and attended the New York Military Academy, which instilled discipline and leadership skills. </childhood_and_upbringing>
+	</character_background>
+	
+	<character_relationship_data>
+		<relationship_entry>
+			<relationship_type> Professional </relationship_type>
+			<relationship_dynamic> Ally </relationship_dynamic> <!--Explanation: The relationship dynamic describes the nature of the relationship between the character and the other character, such as "Best friends", "Siblings", "Romantic partners", "Rivals", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<latent_dynamic> Shared ambition for influence and power </latent_dynamic> <!--Explanation: The latent dynamic describes the underlying emotional or psychological forces that influence the relationship between the character and the other character, such as "Unresolved sibling rivalry", "Shared trauma", "Unspoken romantic tension", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<relationship_name> Elon Musk </relationship_name>
+			<relationship_description> Donald Trump and Elon Musk have a professional alliance, working together to achieve mutual goals in the business and political arenas. </relationship_description>
+		</relationship_entry>
+	</character_relationship_data>
+	
+	<character_memberships>
+		<groups> <!--Explanation: Groups including, for example, clubs, teams, or other social organizations the character is part of.-->
+			<group>
+				<group_name></group_name>
+				<group_type></group_type> <!--Explanation: The type of group, such as "Sports team", "Academic club", "Social group", "Extracurricular activity", etc.-->
+				<group_description></group_description>
+			</group>
+		</groups>
+		<institutions> <!--Explanation: Institutions including, for example, schools, universities, or other organizations the character is part of.-->
+			<institution>
+				<institution_name> New York Military Academy </institution_name>
+				<institution_type> Secondary education institution </institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status> Alumnus </institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> Donald Trump attended the New York Military Academy, which instilled discipline and leadership skills. </institution_description>
+			</institution>
+		</institutions>
+		<families>
+			<family>
+				<family_name> Trump </family_name>
+				<family_relation> By birth </family_relation> <!--Explanation: Indicates how the character is related to the family, whether by birth or by marriage.-->
+				<family_head> Donald Trump </family_head> <!--Explanation: The head of the family, such as "George Longworth-Woodward", "N/A" if not applicable.-->
+				<family_description> Donald Trump was born into the Trump family, a wealthy family with a strong presence in real estate development. </family_description>
+			</family>
+		</families>
+	</character_memberships>
+</character_data>

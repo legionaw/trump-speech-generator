@@ -1,0 +1,50 @@
+{
+    "autoMinify": false,
+    "minifyOnSave": true,
+    "minifyOnCreate": true,
+    "showNotificationOnAutoSave": false,
+    "notificationDuration": 3,
+    "minifyCSS": true,
+    "minifyJS": true,
+    "minifyHTML": true,
+    "minifyJSON": true,
+    "minifyXML": true,
+    "minifySVG": true,
+    "outputSuffix": ".min",
+    "overwriteOriginal": true,
+    "outputDir": "",
+    "removeComments": false,
+    "preserveLicense": true,
+    "preserveLineBreaks": false,
+    "skipMinified": true,
+    "cssOptions": {
+        "level": 2,
+        "format": "none",
+        "compatibility": "*"
+    },
+    "jsOptions": {
+        "compress": true,
+        "mangle": true,
+        "sourceMap": false,
+        "keepFunctionNames": false,
+        "keepClassNames": false
+    },
+    "htmlOptions": {
+        "collapseWhitespace": true,
+        "removeAttributeQuotes": false,
+        "removeOptionalTags": false,
+        "minifyCSS": true,
+        "minifyJS": true
+    },
+    "exclude": [
+        "node_modules/**",
+        "*.min.*",
+        "dist/**",
+        "build/**",
+        "out/**",
+        "src/**",
+        ".vscode/**",
+        ".git/**",
+        ".virgo-minifier.json"
+    ]
+}

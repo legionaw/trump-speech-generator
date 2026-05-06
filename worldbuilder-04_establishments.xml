@@ -1,0 +1,52 @@
+<establishments> # Establishments in *Trump Speech Generator*.
+	<establishments_introduction>
+		This is a non-exhaustive list of the establishments (bars, restaurants, etc.) in the world of *Trump Speech Generator*, ranging from the largest scale to the smallest scale. These establishments provide a framework for the world in which the story takes place and can be used as a reference for future developments in the story.
+	</establishments_introduction>
+	
+	<establishment_entries>
+		## Establishment entry: Jupiter Pub and Grill
+		<establishment_entry establishment_id="jupiter_pub_and_grill">
+			<establishment_name> Jupiter Pub and Grill </establishment_name>
+			<establishment_type> Bar and Restaurant </establishment_type>
+			<establishment_proprietor> Marcus Vela, Owner </establishment_proprietor> <!--Fictional character-->
+			<establishment_location> Jupiter Station, orbit of Jupiter </establishment_location>
+			### Jupiter Pub and Grill - Description:
+			Jupiter Pub and Grill is a popular bar and restaurant located on the Jupiter Station, orbiting Jupiter. It is known for its wide selection of interstellar beverages, live music and entertainment, and panoramic views of Jupiter. The establishment serves as a social hub for travelers and residents of the station, offering a unique dining experience with a space-themed ambiance.
+			<establishment_features>
+				<establishment_feature> Wide selection of interstellar beverages </establishment_feature>
+				<establishment_feature> Live music and entertainment </establishment_feature>
+				<establishment_feature> Panoramic views of Jupiter </establishment_feature>
+			</establishment_features>
+		</establishment_entry>
+		
+		## Establishment entry: Crater's Edge Pub
+		<establishment_entry establishment_id="craters_edge_pub">
+			<establishment_name> Crater's Edge Pub </establishment_name>
+			<establishment_type> Bar and Restaurant </establishment_type>
+			<establishment_proprietor> Luna Smith, Owner </establishment_proprietor> <!--Fictional character-->
+			<establishment_location> Luna colony, Moon </establishment_location>
+			### Crater's Edge Pub - Description:
+			Crater's Edge Pub is a cozy bar and restaurant located in the Luna colony on the Moon. It is known for its stunning views of lunar craters, exclusive moon-themed cocktails, and warm atmosphere. The pub serves as a gathering place for colonists and visitors alike, offering a unique dining experience with a lunar ambiance.
+			<establishment_features>
+				<establishment_feature> Cozy atmosphere </establishment_feature>
+				<establishment_feature> Stunning views of lunar craters </establishment_feature>
+				<establishment_feature> Exclusive moon-themed cocktails </establishment_feature>
+			</establishment_features>
+		</establishment_entry>
+		
+		## Establishment entry: Alpha Pub Hub
+		<establishment_entry establishment_id="alpha_pub_hub">
+			<establishment_name> Alpha Pub Hub </establishment_name>
+			<establishment_type> Bar and Restaurant </establishment_type>
+			<establishment_proprietor> Orion Black, Owner </establishment_proprietor> <!--Fictional character-->
+			<establishment_location> Proxima Centauri III colony, Alpha Centauri sector </establishment_location>
+			### Alpha Pub Hub - Description:
+			Alpha Pub Hub is a modern bar and restaurant located in the Proxima Centauri III colony. It is known for its futuristic design, panoramic views of Proxima Centauri, and exclusive interstellar cocktails. The pub serves as a social hub for colonists and travelers, offering a unique dining experience with a space-themed ambiance.
+			<establishment_features>
+				<establishment_feature> Futuristic design and ambiance </establishment_feature>
+				<establishment_feature> Panoramic views of Proxima Centauri </establishment_feature>
+				<establishment_feature> Exclusive interstellar cocktails </establishment_feature>
+			</establishment_features>
+		</establishment_entry>
+	</establishment_entries>
+</establishments>

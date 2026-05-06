@@ -1,0 +1,37 @@
+<organizations> # Organizations in *Trump Speech Generator*.
+	<organizations_introduction>
+		This is a non-exhaustive list of the organizations in the world of *Trump Speech Generator*, ranging from the largest scale to the smallest scale. These organizations provide a framework for the world in which the story takes place and can be used as a reference for future developments in the story.
+	</organizations_introduction>
+	
+	<organization_entries>
+		## Organization entry: CNN Space News
+		<organization_entry organization_id="cnn">
+			<organization_name> CNN Space News </organization_name>
+			<organization_type> Media </organization_type>
+			<organization_head> Wilson Carter, CEO </organization_head> <!--Fictional character-->
+			<organization_headquarters> Atlanta, Georgia, United States, Earth </organization_headquarters>
+			### CNN Space News - Description:
+			CNN Space News is a major news organization in the world of *Trump Speech Generator*, providing 24/7 coverage of space-related news and events. It has a global network of correspondents and is known for its in-depth reporting on space exploration and interstellar affairs. CNN Space News covers a wide range of topics, including space missions, scientific discoveries, political developments in space, and the activities of various space-faring organizations. It is a trusted source of information for both the general public and professionals in the space industry.
+			<organization_features>
+				<organization_feature> 24/7 news coverage </organization_feature>
+				<organization_feature> Global correspondents </organization_feature>
+				<organization_feature> Space exploration reporting </organization_feature>
+			</organization_features>
+		</organization_entry>
+		
+		## Organization entry: Fox Space News
+		<organization_entry organization_id="fox">
+			<organization_name> Fox Space News </organization_name>
+			<organization_type> Media </organization_type>
+			<organization_head> Sarah Mitchell, CEO </organization_head> <!--Fictional character-->
+			<organization_headquarters> New York City, New York, United States, Earth </organization_headquarters>
+			### Fox Space News - Description:
+			Fox Space News is a prominent news organization in the world of *Trump Speech Generator*, focusing on space-related news and events. It has a wide network of correspondents and is recognized for its comprehensive reporting on space exploration and interstellar affairs. Fox Space News covers various topics, including space missions, scientific discoveries, political developments in space, and the activities of different space-faring organizations. It is a reliable source of information for both the general public and professionals in the space industry.
+			<organization_features>
+				<organization_feature> 24/7 news coverage </organization_feature>
+				<organization_feature> Global correspondents </organization_feature>
+				<organization_feature> Space exploration reporting </organization_feature>
+			</organization_features>
+		</organization_entry>
+	</organization_entries>
+</organizations>

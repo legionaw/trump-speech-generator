@@ -1,0 +1,254 @@
+<character_data character_id="104" character_name_id="john_doe" character_full_name="Johnathan Edward Doe" character_type="fictional_character" appears_on_panel_discussions="yes">
+	<character_name_data>
+		<full_name> Johnathan Edward Doe </full_name> <!--Explanation: The long form of the character's full name, used in formal contexts (e.g. Donald John Trump).-->
+		<full_name_short_form> John Doe </full_name_short_form> <!--Explanation: The short form of the character's full name, used in informal contexts (e.g. Donald Trump).-->
+		<first_name> Johnathan </first_name>
+		<middle_name> Edward </middle_name>
+		<last_name> Doe </last_name>
+		<maiden_name> N/A </maiden_name> <!--Explanation: The maiden name of the character, used for example, to indicate the character's family background or to distinguish them from other characters with similar names. Set to "N/A" if not applicable.-->
+		<nicknames> <!--Explanation: Nicknames that are given and used by other characters in the story for this character.-->
+			<nickname_entry>
+				<nickname> Johnny </nickname>
+				<nickname_used_by> Friends and family </nickname_used_by>
+				<nickname_description> A common diminutive form of Johnathan, used affectionately by those close to him. </nickname_description>
+			</nickname_entry>
+		</nicknames>
+	</character_name_data>
+	
+	<character_demographic_data>
+		<sex> Male </sex>
+		<sexual_orientation> Heterosexual </sexual_orientation>
+		<marital_status> Married </marital_status> <!--Explanation: The marital status of the character, such as "Single", "Married", "Divorced", or any other status that is relevant to the character's role in the story.-->
+		<marital_spouse> Victoria Doe </marital_spouse> <!--Explanation: The name of the character's spouse, if applicable; otherwise, set to "N/A" if not applicable.-->
+		<heritage> Caucasian </heritage>
+		<age as_of_year="2039"> 35 </age> <!--Explanation: The as_of_year attribute indicates the year as of which the age is calculated; 2039 in this case is the year in the story.-->
+		<date_of_birth> 12 March 2004 </date_of_birth>
+		<place_of_birth> Los Angeles, California, USA </place_of_birth>
+	</character_demographic_data>
+	
+	<roles></roles>
+	
+	<character_employment_data>
+		<titles> <!--Explanation: The titles of the character, such as "Detective", "Doctor", "Professor", "CEO", or any other title that is relevant to the character's role in the story; otherwise, set to "N/A" if not applicable.-->
+			<title_entry>
+				<title> Admiral </title>
+				<title_description> A high-ranking space naval officer responsible for overseeing fleet operations and strategic planning. </title_description>
+			</title_entry>
+		</titles>
+		<occupation> Space naval officer </occupation> <!--Explanation: The occupation of the character, such as "Detective", "Doctor", "Professor", "CEO", "High school student", or any other occupation that is relevant to the character's role in the story.-->
+	</character_employment_data>
+	
+	<primary_location> Washington, D.C., United States, Earth </primary_location>
+	
+	<character_appearance_data>
+		<body_attributes>
+			<eye_color> Brown </eye_color>
+			<hair_color> Black </hair_color>
+			<typical_hair_length> Short </typical_hair_length> <!--Explanation: The typical hair length of the character, such as "Short", "Medium", "Long", or any other description that is relevant to the character's appearance.-->
+			<skin_tone> Light </skin_tone>
+			<height> 6'0'' (183 cm) </height> <!--Explanation: The value for this attribute to describe the character's height is given in the following format: "X'Y'' (Z cm)", where X is the number of feet, Y is the number of inches, and Z is the height in centimeters.-->
+			<weight> 180 lbs (82 kg) </weight> <!--Explanation: The value for this attribute to describe the character's weight is given in the following format: "X lbs (X kg)".-->
+			<body_type> Athletic </body_type> <!--Explanation: The body type of the character, such as "Slim", "Athletic", "Curvy", "Muscular", or any other description that is relevant to the character's appearance.-->
+		</body_attributes>
+		<body_features> <!--Explanation: Describes any unique or distinguishing features of the character's body, such as scars, tattoos, birthmarks, or other notable attributes.-->
+			<body_feature_entry>
+				<feature_name></feature_name>
+				<feature_description></feature_description>
+			</body_feature_entry>
+		</body_features>
+		<posture>
+			<posture_description> Upright and commanding </posture_description>
+		</posture>
+		<expressiveness>
+			<expressiveness_description> Controlled and authoritative </expressiveness_description>
+		</expressiveness>
+		<attire_and_style>
+			<attire_and_style_description> Admiral John Doe's attire is formal and authoritative, reflecting his high-ranking position in the space navy. He typically wears a decorated uniform with medals and insignia. </attire_and_style_description>
+			<attire_and_style_traits>
+				<attire_and_style_trait>
+					<trait_name> Formality </trait_name>
+					<trait_description> John Doe's attire is always formal, reflecting his disciplined and professional nature. His uniform is meticulously maintained, with every medal and insignia perfectly aligned. This attention to detail underscores his commitment to excellence and his respect for the traditions of the space navy. </trait_description>
+				</attire_and_style_trait>
+			</attire_and_style_traits>
+		</attire_and_style>
+		<signature_items> <!--Explanation: Signature items are the objects that the character always have, like a camera, a locket, or a weapon, for example.-->
+			<signature_items_description> Admiral John Doe's signature items include his decorated uniform, medals, and insignia, which he always wears as a symbol of his authority and achievements. </signature_items_description>
+			<signature_item_entry>
+				<signature_item_name> Decorated uniform </signature_item_name>
+				<signature_item_description> A formal uniform adorned with medals and insignia, representing John Doe's rank and accomplishments in the space navy. This uniform is a symbol of his authority and dedication to his duties. </signature_item_description>
+			</signature_item_entry>
+		</signature_items>
+	</character_appearance_data>
+	
+	<personality_and_speech_data>
+		<personality_description> Admiral John Doe is disciplined, authoritative, and highly strategic. He values order, precision, and excellence in all aspects of his life and work. </personality_description>
+		<personality_traits>
+			<personality_trait_entry>
+				<personality_trait_name> Discipline </personality_trait_name>
+				<personality_trait_description> John Doe's disciplined nature is evident in his meticulous attention to detail and his unwavering commitment to his duties. He expects the same level of discipline from those under his command, fostering a culture of excellence and accountability. </personality_trait_description>
+			</personality_trait_entry>
+		</personality_traits>
+		<profanity_tendency> <!--Explanation: Profanity tendency is a measure of how likely the character is to use profanity in their speech. It is on the scale of 0 to 10, where 0 means the character never uses profanity and 10 means the character uses profanity very frequently.-->
+			<profanity_tendency_description> John Doe has a moderate profanity tendency, using profanity occasionally in his speech. His use of profanity is often a reflection of his disciplined nature and his desire to assert authority. However, he is also mindful of his image and may choose to limit his use of profanity in certain formal situations. </profanity_tendency_description>
+			<profanity_tendency_entry>
+				<profanity_tendency_level> 5 </profanity_tendency_level> <!--Example: "5".-->
+				<profanity_tendency_example> John Doe might use mild to moderate profanity like "damn", "hell", or "shit" in casual conversations with his peers, especially when he's frustrated or trying to make a point. However, in extreme situations, he may use stronger language to express his emotions. </profanity_tendency_example>
+			</profanity_tendency_entry>
+		</profanity_tendency>
+		<speech_style>
+			<speech_style_description> John Doe's speech style is formal, precise, and authoritative. He chooses his words carefully to convey his commands and expectations clearly. </speech_style_description>
+			<speech_style_traits>
+				<speech_style_trait>
+					<speech_style_trait_name> Formality </speech_style_trait_name>
+					<speech_style_trait_description> John Doe maintains a formal tone in his speech, reflecting his disciplined nature and the seriousness of his position. </speech_style_trait_description>
+				</speech_style_trait>
+			</speech_style_traits>
+		</speech_style>
+		<quirks> <!--Explanation: Quirks, for the purpose of this section, are defined as odd habits or unique behaviors.-->
+			<quirk_entry>
+				<quirk_name> Meticulous organization </quirk_name>
+				<quirk_description> Admiral John Doe has a habit of meticulously organizing his personal and professional spaces, often rearranging items to maintain a sense of order and control. </quirk_description>
+			</quirk_entry>
+		</quirks>
+		<flaws> <!--Explanation: Flaws, for the purpose of this section, are defined as the internal "cracks" that make them human.-->
+			<flaw_entry>
+				<flaw_name> Perfectionism </flaw_name>
+				<flaw_description> John Doe's meticulous nature can sometimes lead to perfectionism, causing him to be overly critical of himself and others. This flaw can create tension in his relationships and make it difficult for him to delegate tasks effectively. </flaw_description>
+			</flaw_entry>
+		</flaws>
+	</personality_and_speech_data>
+	
+	<character_sensory_and_lifestyle_profile>
+		<drinking_preferences>
+			<drinking_preferences_description> John Doe enjoys a variety of beverages, with a particular preference for fine wines and classic cocktails. He appreciates the craftsmanship and tradition behind each drink. </drinking_preferences_description>
+			<drinking_preference_entry> <!--Explanation: An entry should specify a beverage like, for example, beer, rather than just generic alcohol, and a description of the character's preference.-->
+				<beverage> Red wine </beverage>
+				<preference_description> Admiral John Doe prefers full-bodied red wines, savoring their complex flavors and aromas. He often pairs them with fine dining experiences to enhance the overall enjoyment. </preference_description>
+			</drinking_preference_entry>
+		</drinking_preferences>
+		<food_preferences>
+			<food_preferences_description> Admiral John Doe has a refined palate and enjoys gourmet cuisine, often seeking out restaurants known for their exceptional culinary offerings. </food_preferences_description>
+			<food_preference_entry>
+				<cuisine> French </cuisine>
+				<preference_description> Admiral John Doe particularly enjoys French cuisine, appreciating the intricate flavors and sophisticated presentation of each dish. He often seeks out renowned French restaurants to experience authentic culinary artistry. </preference_description>
+			</food_preference_entry>
+		</food_preferences>
+		<music_preferences>
+			<music_preferences_description> Admiral John Doe has a diverse taste in music, enjoying a range of genres from classical to contemporary. He appreciates both the technical skill of musicians and the emotional impact of their performances. </music_preferences_description>
+			<music_preference_entry>
+				<genre> Classical </genre>
+				<preference_description> Admiral John Doe enjoys classical music, particularly compositions from the Baroque and Romantic periods. He finds the complexity and emotional depth of these works deeply moving. </preference_description>
+			</music_preference_entry>
+		</music_preferences>
+		<film_preferences> <!--Explanation: Film preferences including, for example, favorite genres or specific film/shows the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<film_preferences_description> Admiral John Doe enjoys a variety of films, with a particular interest in classic cinema and critically acclaimed dramas. </film_preferences_description>
+			<film_preference_entry>
+				<genre> Classic </genre>
+				<preference_description> Admiral John Doe appreciates classic films for their timeless storytelling and artistic cinematography. He often seeks out restored versions of iconic movies to experience them in their original glory. </preference_description>
+			</film_preference_entry>
+		</film_preferences>
+		<literature_preferences> <!--Explanation: Literature preferences including, for example, favorite genres or specific books the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<literature_preferences_description> Admiral John Doe has a keen interest in literature, particularly classic novels and contemporary fiction. He enjoys exploring different narrative styles and themes. </literature_preferences_description>
+			<literature_preference_entry>
+				<genre> Classic </genre>
+				<preference_description> Admiral John Doe appreciates classic literature for its timeless themes and profound insights into human nature. He often revisits works by authors such as Jane Austen, Charles Dickens, and Leo Tolstoy. </preference_description>
+			</literature_preference_entry>
+		</literature_preferences>
+		<video_game_preferences> <!--Explanation: Video game preferences including, for example, favorite genres or specific games the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<video_game_preferences_description> Admiral John Doe has a casual interest in video games, primarily enjoying narrative-driven experiences and strategy games. </video_game_preferences_description>
+			<video_game_preference_entry>
+				<genre> Narrative </genre>
+				<preference_description> Admiral John Doe enjoys video games with rich storytelling and complex characters, often seeking out titles that offer immersive narratives and emotional depth. </preference_description>
+			</video_game_preference_entry>
+		</video_game_preferences>
+		<hobbies>
+			<hobbies_description> Admiral John Doe enjoys a variety of hobbies, including reading, playing musical instruments, and engaging in outdoor activities. </hobbies_description>
+			<hobbies_entry>
+				<hobby> Reading </hobby>
+				<hobby_description> Admiral John Doe enjoys reading a wide range of literature, from classic novels to contemporary fiction. He often spends hours immersed in books, exploring different worlds and perspectives. </hobby_description>
+			</hobbies_entry>
+		</hobbies>
+		<interests>
+			<interests_description> Admiral John Doe has a wide range of interests, including history, philosophy, and science. He enjoys engaging in thoughtful discussions and exploring new ideas. </interests_description>
+			<interest> History </interest>
+			<interest> Philosophy </interest>
+			<interest> Science </interest>
+		</interests>
+	</character_sensory_and_lifestyle_profile>
+	
+	<character_goal_and_motivation_data>
+		<goals_and_motivations_description> Admiral John Doe is driven by a strong sense of duty and a desire to make a meaningful impact in his field. His goals and motivations are shaped by his experiences and values, guiding his actions and decisions. </goals_and_motivations_description>
+		<internal_goal> <!--Explanation: What they want to feel or find internally—e.g., peace, belonging.-->
+			<internal_goal_entry>
+				<internal_goal_description> Admiral John Doe seeks personal growth and self-improvement. </internal_goal_description> <!--Explanation: A short description of the internal goal.-->
+				<goal_motivation> Admiral John Doe's internal goal is driven by his desire for personal growth and self-improvement. This motivation pushes him to continually seek new challenges and opportunities to expand his knowledge and skills. </goal_motivation> <!--Explanation: A detailed description of how this internal goal motivates the character to pursue their external goals and navigate their relationships.-->
+			</internal_goal_entry>
+		</internal_goal>
+		<external_goal>
+			<external_goal_entry>
+				<external_goal_description> Admiral John Doe aims to lead innovative projects that advance his field and benefit society. </external_goal_description> <!--Explanation: A short description of the external goal.-->
+				<goal_motivation> Admiral John Doe's external goal is driven by his desire to make a meaningful impact in his field. This motivation pushes him to take decisive actions and pursue ambitious projects that align with his values and vision. </goal_motivation> <!--Explanation: A detailed description of how this external goal motivates the character to pursue their internal goals and navigate their relationships.-->
+			</external_goal_entry>
+		</external_goal> <!--Explanation: The tangible thing they are trying to achieve in the world.-->
+		<the_why> <!--Explanation: The specific reason or trauma that fuels these goals.-->
+			<the_why_entry>
+				<reason_description> Admiral John Doe's drive is rooted in a profound sense of responsibility and a commitment to excellence. </reason_description> <!--Explanation: A short description of the reason behind the goal.-->
+				<reason_motivation> Admiral John Doe's motivation is fueled by a deep-seated desire to leave a lasting legacy and contribute to the greater good. This drive stems from his experiences and values, pushing him to pursue his goals with determination and integrity. </reason_motivation> <!--Explanation: A detailed description of how this reason motivates the character to pursue their goals.-->
+			</the_why_entry>
+		</the_why>
+		<aspirations>
+			<aspiration>
+				<aspiration_description> Admiral John Doe aspires to be recognized as a visionary leader in his field. </aspiration_description> <!--Explanation: Short description of the aspiration, such as "Become a detective", "Find true love", "Achieve world peace", or any other aspiration that is relevant to the character's role in the story.-->
+				<aspiration_motivation> Admiral John Doe's aspiration is driven by his desire to leave a lasting impact and inspire others through his leadership and achievements. This motivation encourages him to continuously seek opportunities for innovation and excellence in his work. </aspiration_motivation> <!--Explanation: A detailed description of how this aspiration motivates the character to pursue their goals.-->
+			</aspiration>
+		</aspirations>
+	</character_goal_and_motivation_data>
+	
+	<character_background>
+		<character_background_description> Admiral John Doe's background is characterized by a strong sense of duty, discipline, and a commitment to excellence, shaped by his family's military legacy and his rigorous upbringing. </character_background_description>
+		<family_background> Admiral John Doe comes from a long line of distinguished military leaders, instilling in him a sense of duty and honor from a young age. </family_background>
+		<childhood_and_upbringing> Admiral John Doe's childhood was marked by rigorous training and high expectations, shaping his disciplined and strategic mindset. </childhood_and_upbringing>
+	</character_background>
+	
+	<character_relationship_data>
+		<relationship_entry>
+			<relationship_type></relationship_type>
+			<relationship_dynamic></relationship_dynamic> <!--Explanation: The relationship dynamic describes the nature of the relationship between the character and the other character, such as "Best friends", "Siblings", "Romantic partners", "Rivals", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<latent_dynamic></latent_dynamic> <!--Explanation: The latent dynamic describes the underlying emotional or psychological forces that influence the relationship between the character and the other character, such as "Unresolved sibling rivalry", "Shared trauma", "Unspoken romantic tension", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<relationship_name></relationship_name>
+			<relationship_description></relationship_description>
+		</relationship_entry>
+	</character_relationship_data>
+	
+	<character_memberships>
+		<groups> <!--Explanation: Groups including, for example, clubs, teams, or other social organizations the character is part of.-->
+			<group>
+				<group_name></group_name>
+				<group_type></group_type> <!--Explanation: The type of group, such as "Sports team", "Academic club", "Social group", "Extracurricular activity", etc.-->
+				<group_description></group_description>
+			</group>
+		</groups>
+		<institutions> <!--Explanation: Institutions including, for example, schools, universities, or other organizations the character is part of.-->
+			<institution>
+				<institution_name> United States Space Naval Academy</institution_name>
+				<institution_type>Military Academy</institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status>Alumnus</institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> The United States Space Naval Academy is a prestigious institution dedicated to training the next generation of space naval officers. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> United States Space Navy </institution_name>
+				<institution_type> Military organization </institution_type>
+				<institution_status> Current employee </institution_status>
+				<institution_description> The United States Space Navy is the branch of the military responsible for space-based operations and defense. Admiral John Doe serves as a high-ranking officer, contributing to the strategic planning and execution of space missions. </institution_description>
+			</institution>
+		</institutions>
+		<families>
+			<family>
+				<family_name> Doe </family_name>
+				<family_relation> By birth </family_relation> <!--Explanation: Indicates how the character is related to the family, whether by birth or by marriage.-->
+				<family_head> Joseph Doe (John Doe's father and a retired military officer) </family_head> <!--Explanation: The head of the family, such as "John Longworth-Woodward", "N/A" if not applicable.-->
+				<family_description> The Doe family has a long history of military service, with a strong emphasis on discipline, honor, and duty. </family_description>
+			</family>
+		</families>
+	</character_memberships>
+</character_data>

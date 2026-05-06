@@ -1,0 +1,281 @@
+<character_data character_id="108" character_name_id="lisa_rodriguez" character_full_name="Lisa Rodriguez" character_type="fictional_character" appears_on_panel_discussions="yes">
+	<author_note></author_note> <!--Explanation: For author's notes on the character.-->
+	<character_name_data>
+		<full_name> Lisa Aria Rodriguez </full_name> <!--Explanation: The long form of the character's full name, used in formal contexts (e.g. Donald John Trump).-->
+		<full_name_short_form> Lisa Rodriguez </full_name_short_form> <!--Explanation: The short form of the character's full name, used in informal contexts (e.g. Donald Trump).-->
+		<first_name> Lisa </first_name>
+		<middle_name> Aria </middle_name>
+		<last_name> Rodriguez </last_name>
+		<maiden_name> Gonzalez </maiden_name> <!--Explanation: The maiden name of the character, used for example, to indicate the character's family background or to distinguish them from other characters with similar names. Set to "N/A" if not applicable.-->
+		<nicknames> <!--Explanation: Nicknames that are given and used by other characters in the story for this character.-->
+			<nickname_entry>
+				<nickname> Aria </nickname>
+				<nickname_used_by> Close friends and family </nickname_used_by>
+				<nickname_description> A familiar and affectionate nickname used by those who know her well. </nickname_description>
+			</nickname_entry>
+		</nicknames>
+	</character_name_data>
+	
+	<character_demographic_data>
+		<sex> Female </sex>
+		<sexual_orientation> Heterosexual </sexual_orientation>
+		<marital_status> Married </marital_status> <!--Explanation: The marital status of the character, such as "Single", "Married", "Divorced", or any other status that is relevant to the character's role in the story.-->
+		<marital_spouse> Rafael Rodriguez </marital_spouse> <!--Explanation: The name of the character's spouse, if applicable; otherwise, set to "N/A" if not applicable.-->
+		<heritage> Hispanic/Latino </heritage>
+		<age as_of_year="2039"> 34 </age> <!--Explanation: The as_of_year attribute indicates the year as of which the age is calculated; 2039 in this case is the year in the story.-->
+		<date_of_birth> 15 March 2005 </date_of_birth>
+		<place_of_birth> Proxima Centauri, Alpha Centauri sector </place_of_birth>
+	</character_demographic_data>
+	
+	<roles></roles>
+	
+	<character_employment_data>
+		<titles> <!--Explanation: The titles of the character, such as "Detective", "Doctor", "Professor", "CEO", or any other title that is relevant to the character's role in the story; otherwise, set to "N/A" if not applicable.-->
+			<title_entry>
+				<title></title>
+				<title_description></title_description>
+			</title_entry>
+		</titles>
+		<occupation> Analyst, specializing in space trade and investment </occupation> <!--Explanation: The occupation of the character, such as "Detective", "Doctor", "Professor", "CEO", "High school student", or any other occupation that is relevant to the character's role in the story.-->
+	</character_employment_data>
+	
+	<primary_location> Proxima Centauri, Alpha Centauri sector </primary_location>
+	
+	<character_appearance_data>
+		<body_attributes>
+			<eye_color> Brown </eye_color>
+			<hair_color> Black </hair_color>
+			<typical_hair_length> Long </typical_hair_length> <!--Explanation: The typical hair length of the character, such as "Short", "Medium", "Long", or any other description that is relevant to the character's appearance.-->
+			<skin_tone> Olive </skin_tone>
+			<height> 5'6'' (168 cm) </height> <!--Explanation: The value for this attribute to describe the character's height is given in the following format: "X'Y'' (Z cm)", where X is the number of feet, Y is the number of inches, and Z is the height in centimeters.-->
+			<weight> 130 lbs (59 kg) </weight> <!--Explanation: The value for this attribute to describe the character's weight is given in the following format: "X lbs (X kg)".-->
+			<body_type> Slim </body_type> <!--Explanation: The body type of the character, such as "Slim", "Athletic", "Curvy", "Muscular", or any other description that is relevant to the character's appearance.-->
+		</body_attributes>
+		<body_features> <!--Explanation: Describes any unique or distinguishing features of the character's body, such as scars, tattoos, birthmarks, or other notable attributes.-->
+			<body_feature_entry>
+				<feature_name></feature_name>
+				<feature_description></feature_description>
+			</body_feature_entry>
+		</body_features>
+		<posture>
+			<posture_description> Upright and confident </posture_description>
+		</posture>
+		<expressiveness>
+			<expressiveness_description> Calm and composed </expressiveness_description>
+		</expressiveness>
+		<attire_and_style>
+			<attire_and_style_description> Professional and stylish </attire_and_style_description>
+			<attire_and_style_traits>
+				<attire_and_style_trait>
+					<trait_name> Professional </trait_name>
+					<trait_description> Lisa Rodriguez's attire is always professional, reflecting her role as a space strategist. She prefers tailored suits and elegant dresses that convey authority and competence. </trait_description>
+				</attire_and_style_trait>
+				<attire_and_style_trait>
+					<trait_name> Stylish </trait_name>
+					<trait_description> In addition to being professional, Lisa Rodriguez's style is also fashionable and modern. She incorporates contemporary trends into her wardrobe while maintaining a polished and sophisticated look. </trait_description>
+				</attire_and_style_trait>
+			</attire_and_style_traits>
+		</attire_and_style>
+		<signature_items> <!--Explanation: Signature items are the objects that the character always have, like a camera, a locket, or a weapon, for example.-->
+			<signature_items_description> Lisa Rodriguez's signature items reflect her professional and stylish persona. </signature_items_description>
+			<signature_item_entry>
+				<signature_item_name> Elegant watch </signature_item_name>
+				<signature_item_description> Lisa Rodriguez always wears an elegant watch, symbolizing her punctuality and attention to detail. It is a key accessory that complements her professional and stylish appearance. </signature_item_description>
+			</signature_item_entry>
+		</signature_items>
+	</character_appearance_data>
+	
+	<personality_and_speech_data>
+		<personality_description> Lisa Rodriguez is calm and composed, reflecting her professional demeanor and strategic mindset. </personality_description>
+		<personality_traits>
+			<personality_trait_entry>
+				<personality_trait_name> Calm </personality_trait_name>
+				<personality_trait_description> Lisa Rodriguez maintains a calm and composed demeanor, even in high-pressure situations. This trait allows her to think clearly and make strategic decisions without being influenced by stress or emotions. </personality_trait_description>
+			</personality_trait_entry>
+		</personality_traits>
+		<profanity_tendency> <!--Explanation: Profanity tendency is a measure of how likely the character is to use profanity in their speech. It is on the scale of 0 to 10, where 0 means the character never uses profanity and 10 means the character uses profanity very frequently.-->
+			<profanity_tendency_description> Lisa Rodriguez has a low profanity tendency, rarely using profanity in her speech. Her use of profanity is minimal and often reserved for moments of strong emotion or emphasis. </profanity_tendency_description>
+			<profanity_tendency_entry>
+				<profanity_tendency_level> 2 </profanity_tendency_level> <!--Example: "5".-->
+				<profanity_tendency_example> Lisa Rodriguez might use mild profanity like "damn" or "hell" occasionally, but she generally maintains a professional and composed manner of speaking. </profanity_tendency_example> <!--Example: "Jack might use mild to moderate profanity like "damn", "hell", or "shit" in casual conversations with his peers, especially when he's frustrated or trying to make a point. However, in extreme situations, he may use stronger language to express his emotions." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			</profanity_tendency_entry>
+		</profanity_tendency>
+		<speech_style>
+			<speech_style_description> Lisa Rodriguez's speech style is professional, clear, and concise, reflecting her strategic mindset and calm demeanor. </speech_style_description>
+			<speech_style_traits>
+				<speech_style_trait>
+					<speech_style_trait_name> Professional </speech_style_trait_name>
+					<speech_style_trait_description> Lisa Rodriguez communicates in a professional manner, using precise language and maintaining a respectful tone. She avoids slang and colloquialisms, ensuring her message is clear and authoritative. </speech_style_trait_description>
+				</speech_style_trait>
+			</speech_style_traits>
+		</speech_style>
+		<quirks> <!--Explanation: Quirks, for the purpose of this section, are defined as odd habits or unique behaviors.-->
+			<quirk_entry>
+				<quirk_name> Watch checking </quirk_name>
+				<quirk_description> Lisa Rodriguez has a habit of checking her watch frequently, ensuring she stays on schedule and maintains her punctuality. </quirk_description>
+			</quirk_entry>
+		</quirks>
+		<flaws> <!--Explanation: Flaws, for the purpose of this section, are defined as the internal "cracks" that make them human.-->
+			<flaw_entry>
+				<flaw_name> Perfectionism </flaw_name>
+				<flaw_description> Lisa Rodriguez's desire for perfection can sometimes lead to overthinking and difficulty delegating tasks, as she strives to ensure everything meets her high standards. This flaw can occasionally cause delays and increased stress, both for herself and those around her. </flaw_description>
+			</flaw_entry>
+		</flaws>
+	</personality_and_speech_data>
+	
+	<character_sensory_and_lifestyle_profile>
+		<drinking_preferences>
+			<drinking_preferences_description> Lisa Rodriguez prefers non-alcoholic beverages, reflecting her focus on maintaining a clear mind and professional demeanor. </drinking_preferences_description>
+			<drinking_preference_entry> <!--Explanation: An entry should specify a beverage like, for example, beer, rather than just generic alcohol, and a description of the character's preference.-->
+				<beverage> Herbal tea </beverage>
+				<preference_description> Lisa enjoys a variety of herbal teas, appreciating their calming effects and subtle flavors. She often drinks them during meetings or while working to maintain focus and relaxation. </preference_description>
+			</drinking_preference_entry>
+		</drinking_preferences>
+		<food_preferences>
+			<food_preferences_description> Lisa Rodriguez prefers healthy and balanced meals, reflecting her focus on maintaining energy and concentration throughout the day. </food_preferences_description>
+			<food_preference_entry>
+				<cuisine> Mediterranean </cuisine>
+				<preference_description> Lisa enjoys Mediterranean cuisine for its emphasis on fresh ingredients, lean proteins, and healthy fats. She appreciates dishes like grilled fish, salads, and whole grains. </preference_description>
+			</food_preference_entry>
+		</food_preferences>
+		<music_preferences>
+			<music_preferences_description> Lisa Rodriguez enjoys a variety of music genres, appreciating both classical compositions and Latin rhythms. </music_preferences_description>
+			<music_preference_entry>
+				<genre> Classical </genre>
+				<preference_description> Lisa finds classical music soothing and often listens to it while working or relaxing. </preference_description>
+			</music_preference_entry>
+			<music_preference_entry>
+				<genre> Latin </genre>
+				<preference_description> Lisa enjoys Latin music for its vibrant rhythms and energetic melodies, which uplift her mood and provide a sense of cultural connection. </preference_description>
+			</music_preference_entry>
+		</music_preferences>
+		<film_preferences> <!--Explanation: Film preferences including, for example, favorite genres or specific film/shows the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<film_preferences_description> Lisa Rodriguez enjoys a variety of films, appreciating both thought-provoking dramas and light-hearted comedies. </film_preferences_description>
+			<film_preference_entry>
+				<genre> Drama </genre>
+				<preference_description> Lisa finds dramas engaging for their complex characters and emotional depth. </preference_description>
+			</film_preference_entry>
+			<film_preference_entry>
+				<genre> Comedy </genre>
+				<preference_description> Lisa enjoys comedies for their humor and ability to provide a relaxing escape from daily stress. </preference_description>
+			</film_preference_entry>
+		</film_preferences>
+		<literature_preferences> <!--Explanation: Literature preferences including, for example, favorite genres or specific books the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<literature_preferences_description> Lisa Rodriguez enjoys a variety of literature, appreciating both classic novels and contemporary works. </literature_preferences_description>
+			<literature_preference_entry>
+				<genre> Classic </genre>
+				<preference_description> Lisa finds classic literature enriching for its timeless themes and profound insights into human nature. </preference_description>
+			</literature_preference_entry>
+			<literature_preference_entry>
+				<genre> Contemporary </genre>
+				<preference_description> Lisa enjoys contemporary literature for its relevance to modern life and its exploration of current social issues. </preference_description>
+			</literature_preference_entry>
+		</literature_preferences>
+		<video_game_preferences> <!--Explanation: Video game preferences including, for example, favorite genres or specific games the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<video_game_preferences_description> Lisa Rodriguez enjoys a variety of video games, appreciating both strategic challenges and immersive storytelling. </video_game_preferences_description>
+			<video_game_preference_entry>
+				<genre> Strategy </genre>
+				<preference_description> Lisa enjoys strategy games for their intellectual challenge and the opportunity to plan and execute complex tactics. </preference_description>
+			</video_game_preference_entry>
+			<video_game_preference_entry>
+				<genre> Role-playing </genre>
+				<preference_description> Lisa enjoys role-playing games for their immersive worlds and the chance to explore different characters and narratives. </preference_description>
+			</video_game_preference_entry>
+		</video_game_preferences>
+		<hobbies>
+			<hobbies_description> Lisa Rodriguez has a range of hobbies that help her relax and stay creative. </hobbies_description>
+			<hobbies_entry>
+				<hobby> Painting </hobby>
+				<hobby_description> Lisa enjoys painting as a way to express her creativity and unwind after a busy day. </hobby_description>
+			</hobbies_entry>
+		</hobbies>
+		<interests>
+			<interests_description> Lisa Rodriguez has a wide range of interests that keep her engaged and curious, including art, literature, and technology. </interests_description>
+			<interest> Art </interest>
+			<interest> Literature </interest>
+			<interest> Technology </interest>
+		</interests>
+	</character_sensory_and_lifestyle_profile>
+	
+	<character_goal_and_motivation_data>
+		<goals_and_motivations_description></goals_and_motivations_description>
+		<internal_goal> <!--Explanation: What they want to feel or find internally—e.g., peace, belonging.-->
+			<internal_goal_entry>
+				<internal_goal_description> Lisa Rodriguez seeks personal fulfillment and inner peace. </internal_goal_description> <!--Explanation: A short description of the internal goal.-->
+				<goal_motivation> Lisa's internal goal of achieving personal fulfillment and inner peace motivates her to pursue her passions, maintain meaningful relationships, and navigate challenges with resilience. </goal_motivation> <!--Explanation: A detailed description of how this internal goal motivates the character to pursue their external goals and navigate their relationships.-->
+			</internal_goal_entry>
+		</internal_goal>
+		<external_goal>
+			<external_goal_entry>
+				<external_goal_description> Lisa Rodriguez aims to achieve professional success and recognition in her field. </external_goal_description> <!--Explanation: A short description of the external goal.-->
+				<goal_motivation> Lisa's external goal of achieving professional success motivates her to continuously improve her skills, seek new opportunities, and build a strong network of professional relationships. </goal_motivation> <!--Explanation: A detailed description of how this external goal motivates the character to pursue their internal goals and navigate their relationships.-->
+			</external_goal_entry>
+		</external_goal> <!--Explanation: The tangible thing they are trying to achieve in the world.-->
+		<the_why> <!--Explanation: The specific reason or trauma that fuels these goals.-->
+			<the_why_entry>
+				<reason_description> Lisa Rodriguez's drive for personal fulfillment and professional success is fueled by a desire to overcome past challenges and prove her capabilities. </reason_description> <!--Explanation: A short description of the reason behind the goal.-->
+				<reason_motivation> This reason motivates Lisa to continuously strive for excellence, seek new opportunities, and build meaningful relationships, ensuring that she achieves both personal and professional growth. </reason_motivation> <!--Explanation: A detailed description of how this reason motivates the character to pursue their goals.-->
+			</the_why_entry>
+		</the_why>
+		<aspirations>
+			<aspiration>
+				<aspiration_description> Lisa Rodriguez aspires to become a recognized leader in her industry. </aspiration_description> <!--Explanation: Short description of the aspiration, such as "Become a detective", "Find true love", "Achieve world peace", or any other aspiration that is relevant to the character's role in the story.-->
+				<aspiration_motivation> This aspiration motivates Lisa to continuously seek professional development opportunities, expand her network, and take on challenging projects that showcase her skills and expertise. </aspiration_motivation> <!--Explanation: A detailed description of how this aspiration motivates the character to pursue their goals.-->
+			</aspiration>
+		</aspirations>
+	</character_goal_and_motivation_data>
+	
+	<character_background>
+		<character_background_description> Lisa Rodriguez is a driven and ambitious individual, shaped by her cultural heritage and family values. </character_background_description>
+		<family_background> Coming from a family of Latin-American background, Lisa Rodriguez has been deeply influenced by her cultural heritage and the values instilled in her by her family. </family_background>
+		<childhood_and_upbringing> Lisa Rodriguez's childhood was shaped by a supportive family environment that emphasized the importance of education, hard work, and community involvement. </childhood_and_upbringing>
+	</character_background>
+	
+	<character_relationship_data>
+		<relationship_entry>
+			<relationship_type></relationship_type>
+			<relationship_dynamic></relationship_dynamic> <!--Explanation: The relationship dynamic describes the nature of the relationship between the character and the other character, such as "Best friends", "Siblings", "Romantic partners", "Rivals", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<latent_dynamic></latent_dynamic> <!--Explanation: The latent dynamic describes the underlying emotional or psychological forces that influence the relationship between the character and the other character, such as "Unresolved sibling rivalry", "Shared trauma", "Unspoken romantic tension", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<relationship_name></relationship_name>
+			<relationship_description></relationship_description>
+		</relationship_entry>
+	</character_relationship_data>
+	
+	<character_memberships>
+		<groups> <!--Explanation: Groups including, for example, clubs, teams, or other social organizations the character is part of.-->
+			<group>
+				<group_name></group_name>
+				<group_type></group_type> <!--Explanation: The type of group, such as "Sports team", "Academic club", "Social group", "Extracurricular activity", etc.-->
+				<group_description></group_description>
+			</group>
+		</groups>
+		<institutions> <!--Explanation: Institutions including, for example, schools, universities, or other organizations the character is part of.-->
+			<institution>
+				<institution_name> University of Proxima Centauri </institution_name>
+				<institution_type> Higher education institution </institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status> Alumnus </institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> Lisa Rodriguez graduated from the University of Proxima Centauri with a master's degree in business administration (MBA). </institution_description>
+			</institution>
+			<institution>
+				<institution_name> Rodriguez Group </institution_name>
+				<institution_type> Consulting firm </institution_type>
+				<institution_status> Active </institution_status>
+				<institution_description> A consulting firm, co-founded by Lisa Rodriguez and her husband Rafael Rodriguez, focused on space trade and interstellar commerce. </institution_description>
+			</institution>
+		</institutions>
+		<families>
+			<family>
+				<family_name> Gonzalez </family_name>
+				<family_relation> By birth </family_relation> <!--Explanation: Indicates how the character is related to the family, whether by birth or by marriage.-->
+				<family_head> Alberto Gonzalez (Lisa Rodriguez's father) </family_head> <!--Explanation: The head of the family, such as "John Longworth-Woodward", "N/A" if not applicable.-->
+				<family_description> Lisa Rodriguez comes from the Gonzalez family, a family with a rich cultural heritage and strong values. </family_description>
+			</family>
+			<family>
+				<family_name> Rodriguez </family_name>
+				<family_relation> By marriage </family_relation>
+				<family_head> Rafael Rodriguez (Lisa Rodriguez's husband) </family_head>
+				<family_description> Lisa Rodriguez is married into the Rodriguez family, which has a strong presence in the space trade industry. Her husband, Rafael Rodriguez, is a key figure in their joint consulting firm, the Rodriguez Group. </family_description>
+			</family>
+		</families>
+	</character_memberships>
+</character_data>

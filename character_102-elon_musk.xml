@@ -1,0 +1,284 @@
+<character_data character_id="102" character_name_id="elon_musk" character_full_name="Elon Reeve Musk" character_type="real_person" appears_on_panel_discussions="no">
+	<character_name_data>
+		<full_name> Elon Reeve Musk </full_name> <!--Explanation: The long form of the character's full name, used in formal contexts (e.g. Donald John Trump).-->
+		<full_name_short_form> Elon Musk </full_name_short_form> <!--Explanation: The short form of the character's full name, used in informal contexts (e.g. Donald Trump).-->
+		<first_name> Elon </first_name>
+		<middle_name> Reeve </middle_name>
+		<last_name> Musk </last_name>
+		<maiden_name></maiden_name> <!--Explanation: The maiden name of the character, used for example, to indicate the character's family background or to distinguish them from other characters with similar names. Set to "N/A" if not applicable.-->
+		<nicknames> <!--Explanation: Nicknames that are given and used by other characters in the story for this character.-->
+			<nickname_entry>
+				<nickname> Elon </nickname>
+				<nickname_used_by> Friends and colleagues </nickname_used_by>
+				<nickname_description> Commonly used short form of his first name. </nickname_description>
+			</nickname_entry>
+		</nicknames>
+	</character_name_data>
+	
+	<character_demographic_data>
+		<sex> Male </sex>
+		<sexual_orientation> Straight </sexual_orientation>
+		<marital_status> Divorced </marital_status> <!--Explanation: The marital status of the character, such as "Single", "Married", "Divorced", or any other status that is relevant to the character's role in the story.-->
+		<marital_spouse> N/A </marital_spouse> <!--Explanation: The name of the character's spouse, if applicable; otherwise, set to "N/A" if not applicable.-->
+		<heritage> White/Caucasian </heritage>
+		<age as_of_year="2039"></age> <!--Explanation: The as_of_year attribute indicates the year as of which the age is calculated; 2039 in this case is the year in the story.-->
+		<date_of_birth> 28 June 1971 </date_of_birth>
+		<place_of_birth> Pretoria, South Africa </place_of_birth>
+	</character_demographic_data>
+	
+	<roles> CEO, innovator, entrepreneur </roles>
+	
+	<character_employment_data>
+		<titles> <!--Explanation: The titles of the character, such as "Detective", "Doctor", "Professor", "CEO", or any other title that is relevant to the character's role in the story; otherwise, set to "N/A" if not applicable.-->
+			<title_entry>
+				<title> CEO </title>
+				<title_description> Chief Executive Officer of multiple innovative companies, including SpaceX and Tesla. </title_description>
+			</title_entry>
+		</titles>
+		<occupation> Entrepreneur </occupation> <!--Explanation: The occupation of the character, such as "Detective", "Doctor", "Professor", "CEO", "High school student", or any other occupation that is relevant to the character's role in the story.-->
+	</character_employment_data>
+	
+	<primary_location> United States </primary_location>
+	
+	<loosely_modeled_on> Elon Musk </loosely_modeled_on> <!--Explanation: Indicates if the character is loosely modeled on a real person or fictional character. Set to "N/A" by default.-->
+	
+	<character_appearance_data>
+		<body_attributes>
+			<eye_color> Blue </eye_color>
+			<hair_color> Brown </hair_color>
+			<typical_hair_length> Short </typical_hair_length> <!--Explanation: The typical hair length of the character, such as "Short", "Medium", "Long", or any other description that is relevant to the character's appearance.-->
+			<skin_tone> Fair </skin_tone>
+			<height> 6'2'' (188 cm) </height> <!--Explanation: The value for this attribute to describe the character's height is given in the following format: "X'Y'' (Z cm)", where X is the number of feet, Y is the number of inches, and Z is the height in centimeters.-->
+			<weight> 190 lbs (86 kg) </weight> <!--Explanation: The value for this attribute to describe the character's weight is given in the following format: "X lbs (X kg)".-->
+			<body_type> Athletic </body_type> <!--Explanation: The body type of the character, such as "Slim", "Athletic", "Curvy", "Muscular", or any other description that is relevant to the character's appearance.-->
+		</body_attributes>
+		<body_features> <!--Explanation: Describes any unique or distinguishing features of the character's body, such as scars, tattoos, birthmarks, or other notable attributes.-->
+			<body_feature_entry>
+				<feature_name></feature_name>
+				<feature_description></feature_description>
+			</body_feature_entry>
+		</body_features>
+		<posture>
+			<posture_description> Confident and upright </posture_description>
+		</posture>
+		<expressiveness>
+			<expressiveness_description> Animated and expressive, often using hand gestures </expressiveness_description>
+		</expressiveness>
+		<attire_and_style>
+			<attire_and_style_description></attire_and_style_description>
+			<attire_and_style_traits>
+				<attire_and_style_trait>
+					<trait_name> Casual yet professional </trait_name>
+					<trait_description> Often seen in simple, comfortable clothing that is suitable for both work and casual settings. </trait_description>
+				</attire_and_style_trait>
+			</attire_and_style_traits>
+		</attire_and_style>
+		<signature_items> <!--Explanation: Signature items are the objects that the character always have, like a camera, a locket, or a weapon, for example.-->
+			<signature_items_description></signature_items_description>
+			<signature_item_entry>
+				<signature_item_name></signature_item_name>
+				<signature_item_description></signature_item_description>
+			</signature_item_entry>
+		</signature_items>
+	</character_appearance_data>
+	
+	<personality_and_speech_data>
+		<personality_description> Elon Musk is known for his visionary thinking, ambitious goals, and relentless drive. He is often seen as a charismatic and influential figure in the tech industry. </personality_description>
+		<personality_traits>
+			<personality_trait_entry>
+				<personality_trait_name> Visionary </personality_trait_name>
+				<personality_trait_description> Elon Musk has a forward-thinking mindset, constantly seeking innovative solutions and pushing the boundaries of technology. He is known for his ambitious goals and his ability to inspire others with his vision. </personality_trait_description>
+			</personality_trait_entry>
+		</personality_traits>
+		<profanity_tendency> <!--Explanation: Profanity tendency is a measure of how likely the character is to use profanity in their speech. It is on the scale of 0 to 10, where 0 means the character never uses profanity and 10 means the character uses profanity very frequently.-->
+			<profanity_tendency_description></profanity_tendency_description> <!--Example: "Jack has a moderate profanity tendency, using profanity occasionally in his speech. His use of profanity is often a reflection of his rebellious nature and his desire to express himself in a more edgy and authentic way. However, he is also mindful of his image and may choose to limit his use of profanity in certain social situations." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			<profanity_tendency_entry>
+				<profanity_tendency_level></profanity_tendency_level> <!--Example: "5".-->
+				<profanity_tendency_example></profanity_tendency_example> <!--Example: "Jack might use mild to moderate profanity like "damn", "hell", or "shit" in casual conversations with his peers, especially when he's frustrated or trying to make a point. However, in extreme situations, he may use stronger language to express his emotions." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			</profanity_tendency_entry>
+		</profanity_tendency>
+		<speech_style>
+			<speech_style_description> Elon Musk's speech style is often direct, confident, and persuasive, reflecting his visionary mindset and ambitious goals. </speech_style_description>
+			<speech_style_traits>
+				<speech_style_trait>
+					<speech_style_trait_name> Direct </speech_style_trait_name>
+					<speech_style_trait_description> Elon Musk communicates his ideas clearly and concisely, often focusing on the key points and avoiding unnecessary details. He is known for his ability to simplify complex concepts and make them accessible to a wide audience. </speech_style_trait_description>
+				</speech_style_trait>
+			</speech_style_traits>
+		</speech_style>
+		<quirks> <!--Explanation: Quirks, for the purpose of this section, are defined as odd habits or unique behaviors.-->
+			<quirk_entry>
+				<quirk_name> Intense focus </quirk_name>
+				<quirk_description> Elon Musk is known for his intense focus and work ethic, often working long hours and immersing himself deeply in his projects. He has a tendency to become so engrossed in his work that he may neglect other aspects of his life. </quirk_description>
+			</quirk_entry>
+		</quirks>
+		<flaws> <!--Explanation: Flaws, for the purpose of this section, are defined as the internal "cracks" that make them human.-->
+			<flaw_entry>
+				<flaw_name> Impatience </flaw_name>
+				<flaw_description> Elon Musk can be impatient, especially when it comes to achieving his ambitious goals. He may become frustrated with delays or obstacles and push himself and others to work at an intense pace. This impatience can sometimes lead to conflicts or strained relationships. </flaw_description>
+			</flaw_entry>
+		</flaws>
+	</personality_and_speech_data>
+	
+	<character_sensory_and_lifestyle_profile>
+		<drinking_preferences>
+			<drinking_preferences_description> Elon Musk's drinking preferences are not widely publicized, but he has mentioned enjoying certain beverages on occasion. </drinking_preferences_description>
+			<drinking_preference_entry> <!--Explanation: An entry should specify a beverage like, for example, beer, rather than just generic alcohol, and a description of the character's preference.-->
+				<beverage> Champagne </beverage>
+				<preference_description> Elon Musk has mentioned enjoying champagne on special occasions. </preference_description>
+			</drinking_preference_entry>
+		</drinking_preferences>
+		<food_preferences>
+			<food_preferences_description> Elon Musk's food preferences are not widely publicized, but he has mentioned enjoying certain foods on occasion. </food_preferences_description>
+			<food_preference_entry>
+				<cuisine> N/A </cuisine>
+				<preference_description> N/A </preference_description>
+			</food_preference_entry>
+		</food_preferences>
+		<music_preferences>
+			<music_preferences_description> Elon Musk's music preferences are not widely publicized, but he has mentioned enjoying certain genres on occasion. </music_preferences_description>
+			<music_preference_entry>
+				<genre> N/A </genre>
+				<preference_description> N/A </preference_description>
+			</music_preference_entry>
+		</music_preferences>
+		<film_preferences> <!--Explanation: Film preferences including, for example, favorite genres or specific film/shows the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<film_preferences_description> N/A </film_preferences_description>
+			<film_preference_entry>
+				<genre> N/A </genre>
+				<preference_description> N/A </preference_description>
+			</film_preference_entry>
+		</film_preferences>
+		<literature_preferences> <!--Explanation: Literature preferences including, for example, favorite genres or specific books the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<literature_preferences_description> N/A </literature_preferences_description>
+			<literature_preference_entry>
+				<genre> N/A </genre>
+				<preference_description> N/A </preference_description>
+			</literature_preference_entry>
+		</literature_preferences>
+		<video_game_preferences> <!--Explanation: Video game preferences including, for example, favorite genres or specific games the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<video_game_preferences_description> Elon Musk is known to have played video games such as Quake, Diablo IV, Elden Ring, and Polytopia. </video_game_preferences_description>
+			<video_game_preference_entry>
+				<genre></genre>
+				<preference_description></preference_description>
+			</video_game_preference_entry>
+		</video_game_preferences>
+		<hobbies>
+			<hobbies_description> Elon Musk's hobbies are not widely publicized, but he has mentioned enjoying certain activities on occasion. </hobbies_description>
+			<hobbies_entry>
+				<hobby> N/A </hobby>
+				<hobby_description> N/A </hobby_description>
+			</hobbies_entry>
+		</hobbies>
+		<interests>
+			<interests_description> N/A </interests_description>
+			<interest> N/A </interest>
+		</interests>
+	</character_sensory_and_lifestyle_profile>
+	
+	<character_goal_and_motivation_data>
+		<goals_and_motivations_description> Elon Musk's goals and motivations are driven by his vision for the future, technological innovation, and the desire to make a significant impact on humanity. </goals_and_motivations_description>
+		<internal_goal> <!--Explanation: What they want to feel or find internally—e.g., peace, belonging.-->
+			<internal_goal_entry>
+				<internal_goal_description> Achieve a sense of fulfillment and purpose through his work and innovations. </internal_goal_description> <!--Explanation: A short description of the internal goal.-->
+				<goal_motivation> Elon Musk's internal goal is to achieve a sense of fulfillment and purpose through his work and innovations. </goal_motivation> <!--Explanation: A detailed description of how this internal goal motivates the character to pursue their external goals and navigate their relationships.-->
+			</internal_goal_entry>
+		</internal_goal>
+		<external_goal>
+			<external_goal_entry>
+				<external_goal_description> Make a significant impact on humanity through technological innovation. </external_goal_description> <!--Explanation: A short description of the external goal.-->
+				<goal_motivation> Elon Musk's external goal is to make a significant impact on humanity through technological innovation, which drives him to pursue ambitious projects and push the boundaries of what is possible. </goal_motivation> <!--Explanation: A detailed description of how this external goal motivates the character to pursue their internal goals and navigate their relationships.-->
+			</external_goal_entry>
+		</external_goal> <!--Explanation: The tangible thing they are trying to achieve in the world.-->
+		<the_why> <!--Explanation: The specific reason or trauma that fuels these goals.-->
+			<the_why_entry>
+				<reason_description> Elon Musk's motivation is driven by his vision for the future and the desire to make a significant impact on humanity. </reason_description> <!--Explanation: A short description of the reason behind the goal.-->
+				<reason_motivation> Elon Musk's motivation is fueled by his vision for the future, technological innovation, and the desire to make a significant impact on humanity. </reason_motivation> <!--Explanation: A detailed description of how this reason motivates the character to pursue their goals.-->
+			</the_why_entry>
+		</the_why>
+		<aspirations>
+			<aspiration>
+				<aspiration_description> Revolutionize space travel and colonize Mars. </aspiration_description> <!--Explanation: Short description of the aspiration, such as "Become a detective", "Find true love", "Achieve world peace", or any other aspiration that is relevant to the character's role in the story.-->
+				<aspiration_motivation> Elon Musk's aspiration to revolutionize space travel and colonize Mars motivates him to push the boundaries of technology and innovation, driving his efforts to achieve his long-term goals. </aspiration_motivation> <!--Explanation: A detailed description of how this aspiration motivates the character to pursue their goals.-->
+			</aspiration>
+		</aspirations>
+	</character_goal_and_motivation_data>
+	
+	<character_background>
+		<character_background_description> Elon Musk is a visionary entrepreneur and engineer known for his ambitious goals and innovative projects. </character_background_description>
+		<family_background> Elon Musk was born to a Canadian mother and South African father, and he has a complex family dynamic that has influenced his drive and ambition. </family_background>
+		<childhood_and_upbringing> Elon Musk grew up in South Africa, where he developed an early interest in technology and entrepreneurship. </childhood_and_upbringing>
+	</character_background>
+	
+	<character_relationship_data>
+		<relationship_entry>
+			<relationship_type> Professional </relationship_type>
+			<relationship_dynamic> Ally </relationship_dynamic> <!--Explanation: The relationship dynamic describes the nature of the relationship between the character and the other character, such as "Best friends", "Siblings", "Romantic partners", "Rivals", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<latent_dynamic> Shared ambition for influence and power </latent_dynamic> <!--Explanation: The latent dynamic describes the underlying emotional or psychological forces that influence the relationship between the character and the other character, such as "Unresolved sibling rivalry", "Shared trauma", "Unspoken romantic tension", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<relationship_name> Donald Trump </relationship_name>
+			<relationship_description> Elon Musk and Donald Trump share a professional alliance, working together to achieve mutual goals in the business and political arenas. </relationship_description>
+		</relationship_entry>
+	</character_relationship_data>
+	
+	<character_memberships>
+		<groups> <!--Explanation: Groups including, for example, clubs, teams, or other social organizations the character is part of.-->
+			<group>
+				<group_name></group_name>
+				<group_type></group_type> <!--Explanation: The type of group, such as "Sports team", "Academic club", "Social group", "Extracurricular activity", etc.-->
+				<group_description></group_description>
+			</group>
+		</groups>
+		<institutions> <!--Explanation: Institutions including, for example, schools, universities, or other organizations the character is part of.-->
+			<institution>
+				<institution_name> University of Pennsylvania </institution_name>
+				<institution_type> Higher education institution </institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status> Alumnus </institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> Elon Musk attended the University of Pennsylvania, where he earned degrees in both economics and physics. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> Stanford University </institution_name>
+				<institution_type> Higher education institution </institution_type>
+				<institution_status> Attended (dropped out) </institution_status>
+				<institution_description> Elon Musk briefly attended Stanford University for a PhD program in applied physics and materials science but dropped out after just two days to pursue entrepreneurial ventures. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> SpaceX </institution_name>
+				<institution_type> Company </institution_type>
+				<institution_status> Current CEO </institution_status>
+				<institution_description> Elon Musk is the founder and CEO of SpaceX, a private aerospace manufacturer and space transportation company that aims to reduce space transportation costs and enable the colonization of Mars. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> Tesla, Inc. </institution_name>
+				<institution_type> Company </institution_type>
+				<institution_status> Current CEO </institution_status>
+				<institution_description> Elon Musk is the CEO of Tesla, Inc., an electric vehicle and clean energy company that designs and manufactures electric cars, battery energy storage systems, and solar products. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> Neuralink </institution_name>
+				<institution_type> Company </institution_type>
+				<institution_status> Current CEO </institution_status>
+				<institution_description> Elon Musk is the CEO of Neuralink, a neurotechnology company that is developing implantable brain-machine interfaces to connect humans and computers. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> The Boring Company </institution_name>
+				<institution_type> Company </institution_type>
+				<institution_status> Current CEO </institution_status>
+				<institution_description> Elon Musk is the CEO of The Boring Company, an infrastructure and tunnel construction services company that aims to reduce traffic in cities through underground transportation systems. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> OpenAI </institution_name>
+				<institution_type> Company </institution_type>
+				<institution_status> Co-founder (no longer involved) </institution_status>
+				<institution_description> Elon Musk co-founded OpenAI, an artificial intelligence research laboratory that aims to ensure that artificial general intelligence benefits all of humanity. However, he is no longer directly involved with the company. </institution_description>
+			</institution>
+		</institutions>
+		<families>
+			<family>
+				<family_name> Musk </family_name>
+				<family_relation> By birth </family_relation> <!--Explanation: Indicates how the character is related to the family, whether by birth or by marriage.-->
+				<family_head> Elon Musk </family_head> <!--Explanation: The head of the family, such as "John Longworth-Woodward", "N/A" if not applicable.-->
+				<family_description> Elon Musk is a member of the Musk family, which includes his parents, siblings, and children. </family_description>
+			</family>
+		</families>
+	</character_memberships>
+</character_data>

@@ -1,0 +1,252 @@
+<character_data character_id="105" character_name_id="sarah_lee" character_full_name="Colonel Sarah Lee" character_type="fictional_character" appears_on_panel_discussions="yes">
+	<character_name_data>
+		<full_name> Colonel Sarah Lee </full_name> <!--Explanation: The long form of the character's full name, used in formal contexts (e.g. Donald John Trump).-->
+		<full_name_short_form> Sarah Lee </full_name_short_form> <!--Explanation: The short form of the character's full name, used in informal contexts (e.g. Donald Trump).-->
+		<first_name> Sarah </first_name>
+		<middle_name></middle_name>
+		<last_name> Lee </last_name>
+		<maiden_name> N/A </maiden_name> <!--Explanation: The maiden name of the character, used for example, to indicate the character's family background or to distinguish them from other characters with similar names. Set to "N/A" if not applicable.-->
+		<nicknames> <!--Explanation: Nicknames that are given and used by other characters in the story for this character.-->
+			<nickname_entry>
+				<nickname></nickname>
+				<nickname_used_by></nickname_used_by>
+				<nickname_description></nickname_description>
+			</nickname_entry>
+		</nicknames>
+	</character_name_data>
+	
+	<character_demographic_data>
+		<sex> Female </sex>
+		<sexual_orientation> Heterosexual </sexual_orientation>
+		<marital_status> Single </marital_status> <!--Explanation: The marital status of the character, such as "Single", "Married", "Divorced", or any other status that is relevant to the character's role in the story.-->
+		<marital_spouse> N/A </marital_spouse> <!--Explanation: The name of the character's spouse, if applicable; otherwise, set to "N/A" if not applicable.-->
+		<heritage> White/Caucasian </heritage>
+		<age as_of_year="2039"> 54 </age> <!--Explanation: The as_of_year attribute indicates the year as of which the age is calculated; 2039 in this case is the year in the story.-->
+		<date_of_birth> 21 June 1985 </date_of_birth>
+		<place_of_birth> Fort Worth, Texas, USA </place_of_birth>
+	</character_demographic_data>
+	
+	<roles></roles>
+	
+	<character_employment_data>
+		<titles> <!--Explanation: The titles of the character, such as "Detective", "Doctor", "Professor", "CEO", or any other title that is relevant to the character's role in the story; otherwise, set to "N/A" if not applicable.-->
+			<title_entry>
+				<title> Colonel </title>
+				<title_description> A senior military officer rank, typically in charge of a regiment or brigade. </title_description>
+			</title_entry>
+		</titles>
+		<occupation> Military officer </occupation> <!--Explanation: The occupation of the character, such as "Detective", "Doctor", "Professor", "CEO", "High school student", or any other occupation that is relevant to the character's role in the story.-->
+	</character_employment_data>
+	
+	<primary_location></primary_location>
+	
+	<character_appearance_data>
+		<body_attributes>
+			<eye_color> Blue </eye_color>
+			<hair_color> Brown </hair_color>
+			<typical_hair_length> Short </typical_hair_length> <!--Explanation: The typical hair length of the character, such as "Short", "Medium", "Long", or any other description that is relevant to the character's appearance.-->
+			<skin_tone> Fair </skin_tone>
+			<height> 5'8'' (173 cm) </height> <!--Explanation: The value for this attribute to describe the character's height is given in the following format: "X'Y'' (Z cm)", where X is the number of feet, Y is the number of inches, and Z is the height in centimeters.-->
+			<weight> 150 lbs (68 kg) </weight> <!--Explanation: The value for this attribute to describe the character's weight is given in the following format: "X lbs (X kg)".-->
+			<body_type> Athletic </body_type> <!--Explanation: The body type of the character, such as "Slim", "Athletic", "Curvy", "Muscular", or any other description that is relevant to the character's appearance.-->
+		</body_attributes>
+		<body_features> <!--Explanation: Describes any unique or distinguishing features of the character's body, such as scars, tattoos, birthmarks, or other notable attributes.-->
+			<body_feature_entry>
+				<feature_name></feature_name>
+				<feature_description></feature_description>
+			</body_feature_entry>
+		</body_features>
+		<posture>
+			<posture_description> Upright and confident </posture_description>
+		</posture>
+		<expressiveness>
+			<expressiveness_description> Calm and composed </expressiveness_description>
+		</expressiveness>
+		<attire_and_style>
+			<attire_and_style_description> Professional military attire, often seen in uniform. </attire_and_style_description>
+			<attire_and_style_traits>
+				<attire_and_style_trait>
+					<trait_name> Uniform </trait_name>
+					<trait_description> Wears a standard military uniform appropriate for her rank and position. </trait_description>
+				</attire_and_style_trait>
+			</attire_and_style_traits>
+		</attire_and_style>
+		<signature_items> <!--Explanation: Signature items are the objects that the character always have, like a camera, a locket, or a weapon, for example.-->
+			<signature_items_description> Colonel Sarah Lee is often seen with her military-issued sidearm and a tactical watch. </signature_items_description>
+			<signature_item_entry>
+				<signature_item_name> Sidearm </signature_item_name>
+				<signature_item_description> A standard-issue military sidearm, always carried for personal protection and duty requirements. </signature_item_description>
+			</signature_item_entry>
+		</signature_items>
+	</character_appearance_data>
+	
+	<personality_and_speech_data>
+		<personality_description> Colonel Sarah Lee is disciplined, strategic, and highly focused on her duties. She values order, efficiency, and loyalty, both in herself and in those around her. </personality_description>
+		<personality_traits>
+			<personality_trait_entry>
+				<personality_trait_name> Disciplined </personality_trait_name>
+				<personality_trait_description> Maintains strict self-control and adheres to a structured routine. </personality_trait_description>
+			</personality_trait_entry>
+		</personality_traits>
+		<profanity_tendency> <!--Explanation: Profanity tendency is a measure of how likely the character is to use profanity in their speech. It is on the scale of 0 to 10, where 0 means the character never uses profanity and 10 means the character uses profanity very frequently.-->
+			<profanity_tendency_description> Colonel Sarah Lee has a moderate profanity tendency, using profanity occasionally in her speech. Her use of profanity is often a reflection of her disciplined nature and her desire to express herself in a more direct and assertive way. However, she is also mindful of her image and may choose to limit her use of profanity in certain professional situations. </profanity_tendency_description>
+			<profanity_tendency_entry>
+				<profanity_tendency_level> 5 </profanity_tendency_level> <!--Example: "5".-->
+				<profanity_tendency_example> Colonel Sarah Lee might use mild to moderate profanity like "damn", "hell", or "shit" in casual conversations with her peers, especially when she's frustrated or trying to make a point. However, in extreme situations, she may use stronger language to express her emotions. </profanity_tendency_example>
+			</profanity_tendency_entry>
+		</profanity_tendency>
+		<speech_style>
+			<speech_style_description> Colonel Sarah Lee's speech style is clear, concise, and authoritative. She communicates with confidence and precision, often using military terminology and structured language. </speech_style_description>
+			<speech_style_traits>
+				<speech_style_trait>
+					<speech_style_trait_name> Authoritative </speech_style_trait_name>
+					<speech_style_trait_description> Speaks with confidence and commands attention, often using a firm and decisive tone. </speech_style_trait_description>
+				</speech_style_trait>
+			</speech_style_traits>
+		</speech_style>
+		<quirks> <!--Explanation: Quirks, for the purpose of this section, are defined as odd habits or unique behaviors.-->
+			<quirk_entry>
+				<quirk_name> Meticulous organization </quirk_name>
+				<quirk_description> Colonel Sarah Lee has a habit of meticulously organizing her workspace and personal items, reflecting her disciplined nature. </quirk_description>
+			</quirk_entry>
+		</quirks>
+		<flaws> <!--Explanation: Flaws, for the purpose of this section, are defined as the internal "cracks" that make them human.-->
+			<flaw_entry>
+				<flaw_name> Perfectionism </flaw_name>
+				<flaw_description> Colonel Sarah Lee's high standards and meticulous nature can sometimes lead to stress and difficulty delegating tasks. </flaw_description>
+			</flaw_entry>
+		</flaws>
+	</personality_and_speech_data>
+	
+	<character_sensory_and_lifestyle_profile>
+		<drinking_preferences>
+			<drinking_preferences_description> Colonel Sarah Lee enjoys a variety of beverages, but she prefers non-alcoholic options due to her disciplined lifestyle. </drinking_preferences_description>
+			<drinking_preference_entry> <!--Explanation: An entry should specify a beverage like, for example, beer, rather than just generic alcohol, and a description of the character's preference.-->
+				<beverage> Green tea </beverage>
+				<preference_description> Colonel Sarah Lee prefers green tea for its health benefits and calming effects, aligning with her disciplined and structured routine. </preference_description>
+			</drinking_preference_entry>
+		</drinking_preferences>
+		<food_preferences>
+			<food_preferences_description> Colonel Sarah Lee maintains a balanced diet, favoring nutritious and well-prepared meals. </food_preferences_description>
+			<food_preference_entry>
+				<cuisine> Japanese </cuisine>
+				<preference_description> Colonel Sarah Lee enjoys Japanese cuisine for its emphasis on fresh ingredients and meticulous presentation. </preference_description>
+			</food_preference_entry>
+		</food_preferences>
+		<music_preferences>
+			<music_preferences_description> Colonel Sarah Lee appreciates music that is calming and structured, often favoring classical compositions. </music_preferences_description>
+			<music_preference_entry>
+				<genre> Classical </genre>
+				<preference_description> Colonel Sarah Lee enjoys classical music for its complexity and disciplined structure, which aligns with her meticulous nature. </preference_description>
+			</music_preference_entry>
+		</music_preferences>
+		<film_preferences> <!--Explanation: Film preferences including, for example, favorite genres or specific film/shows the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<film_preferences_description> Colonel Sarah Lee enjoys films that are thought-provoking and well-structured, often favoring dramas and documentaries. </film_preferences_description>
+			<film_preference_entry>
+				<genre> Drama </genre>
+				<preference_description> Colonel Sarah Lee appreciates dramas for their complex characters and intricate plots, which align with her analytical nature. </preference_description>
+			</film_preference_entry>
+		</film_preferences>
+		<literature_preferences> <!--Explanation: Literature preferences including, for example, favorite genres or specific books the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<literature_preferences_description> Colonel Sarah Lee enjoys literature that is intellectually stimulating and well-structured, often favoring classic novels and historical texts. </literature_preferences_description>
+			<literature_preference_entry>
+				<genre> Classic </genre>
+				<preference_description> Colonel Sarah Lee appreciates classic literature for its timeless themes and intricate narratives, which align with her analytical nature. </preference_description>
+			</literature_preference_entry>
+		</literature_preferences>
+		<video_game_preferences> <!--Explanation: Video game preferences including, for example, favorite genres or specific games the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<video_game_preferences_description> Colonel Sarah Lee does not have a strong preference for video games, as she prioritizes other activities that align with her disciplined lifestyle. </video_game_preferences_description>
+			<video_game_preference_entry>
+				<genre> N/A </genre>
+				<preference_description> N/A </preference_description>
+			</video_game_preference_entry>
+		</video_game_preferences>
+		<hobbies>
+			<hobbies_description> Colonel Sarah Lee engages in hobbies that promote mental clarity and physical well-being, such as reading, yoga, and strategic games. </hobbies_description>
+			<hobbies_entry>
+				<hobby> Reading </hobby>
+				<hobby_description> Colonel Sarah Lee enjoys reading intellectually stimulating books that align with her analytical nature. </hobby_description>
+			</hobbies_entry>
+		</hobbies>
+		<interests>
+			<interests_description> Colonel Sarah Lee has a keen interest in topics that challenge her intellect and expand her knowledge, such as history, philosophy, and strategic thinking. </interests_description>
+			<interest> History </interest>
+			<interest> Philosophy </interest>
+			<interest> Strategic thinking </interest>
+		</interests>
+	</character_sensory_and_lifestyle_profile>
+	
+	<character_goal_and_motivation_data>
+		<goals_and_motivations_description> Colonel Sarah Lee is driven by a desire to achieve excellence in her professional and personal life, guided by a strong sense of duty and intellectual curiosity. </goals_and_motivations_description>
+		<internal_goal> <!--Explanation: What they want to feel or find internally—e.g., peace, belonging.-->
+			<internal_goal_entry>
+				<internal_goal_description> Maintain personal integrity and intellectual growth </internal_goal_description> <!--Explanation: A short description of the internal goal.-->
+				<goal_motivation> Colonel Sarah Lee's internal goal is to maintain a sense of personal integrity and intellectual growth, which drives her to excel in her professional and personal endeavors. </goal_motivation> <!--Explanation: A detailed description of how this internal goal motivates the character to pursue their external goals and navigate their relationships.-->
+			</internal_goal_entry>
+		</internal_goal>
+		<external_goal>
+			<external_goal_entry>
+				<external_goal_description> Achieve excellence in professional and personal life </external_goal_description> <!--Explanation: A short description of the external goal.-->
+				<goal_motivation> Colonel Sarah Lee's external goal is to achieve excellence in her professional and personal life, which motivates her to maintain her internal goal of personal integrity and intellectual growth. </goal_motivation> <!--Explanation: A detailed description of how this external goal motivates the character to pursue their internal goals and navigate their relationships.-->
+			</external_goal_entry>
+		</external_goal> <!--Explanation: The tangible thing they are trying to achieve in the world.-->
+		<the_why> <!--Explanation: The specific reason or trauma that fuels these goals.-->
+			<the_why_entry>
+				<reason_description> Desire to uphold personal values and achieve intellectual growth </reason_description> <!--Explanation: A short description of the reason behind the goal.-->
+				<reason_motivation> Colonel Sarah Lee's motivation is driven by a deep-seated desire to uphold her personal values and achieve intellectual growth, which fuels her pursuit of excellence in all aspects of her life. </reason_motivation> <!--Explanation: A detailed description of how this reason motivates the character to pursue their goals.-->
+			</the_why_entry>
+		</the_why>
+		<aspirations>
+			<aspiration>
+				<aspiration_description> Achieve excellence in all aspects of life </aspiration_description> <!--Explanation: Short description of the aspiration, such as "Become a detective", "Find true love", "Achieve world peace", or any other aspiration that is relevant to the character's role in the story.-->
+				<aspiration_motivation> Colonel Sarah Lee's aspiration is driven by her desire to uphold her personal values and achieve intellectual growth, which motivates her to pursue excellence in all aspects of her life. </aspiration_motivation> <!--Explanation: A detailed description of how this aspiration motivates the character to pursue their goals.-->
+			</aspiration>
+		</aspirations>
+	</character_goal_and_motivation_data>
+	
+	<character_background>
+		<character_background_description> Colonel Sarah Lee is a highly disciplined and intellectually driven individual, shaped by her family's military tradition and rigorous upbringing. </character_background_description>
+		<family_background> Colonel Sarah Lee comes from a family with a strong military tradition, which has instilled in her a sense of duty and discipline. </family_background>
+		<childhood_and_upbringing> Colonel Sarah Lee's childhood was marked by a rigorous upbringing, emphasizing discipline, responsibility, and the importance of education. </childhood_and_upbringing>
+	</character_background>
+	
+	<character_relationship_data>
+		<relationship_entry>
+			<relationship_type></relationship_type>
+			<relationship_dynamic></relationship_dynamic> <!--Explanation: The relationship dynamic describes the nature of the relationship between the character and the other character, such as "Best friends", "Siblings", "Romantic partners", "Rivals", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<latent_dynamic></latent_dynamic> <!--Explanation: The latent dynamic describes the underlying emotional or psychological forces that influence the relationship between the character and the other character, such as "Unresolved sibling rivalry", "Shared trauma", "Unspoken romantic tension", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<relationship_name></relationship_name>
+			<relationship_description></relationship_description>
+		</relationship_entry>
+	</character_relationship_data>
+	
+	<character_memberships>
+		<groups> <!--Explanation: Groups including, for example, clubs, teams, or other social organizations the character is part of.-->
+			<group>
+				<group_name></group_name>
+				<group_type></group_type> <!--Explanation: The type of group, such as "Sports team", "Academic club", "Social group", "Extracurricular activity", etc.-->
+				<group_description></group_description>
+			</group>
+		</groups>
+		<institutions> <!--Explanation: Institutions including, for example, schools, universities, or other organizations the character is part of.-->
+			<institution>
+				<institution_name> United States Military Academy </institution_name> <!--Military college-->
+				<institution_type> Higher education institution </institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status> Alumnus </institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> The United States Military Academy, also known as West Point, is a prestigious military academy that trains officers for the United States Army. </institution_description>
+			</institution>
+				<institution_name> Luna Milita </institution_name>
+				<institution_type> Military institution </institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status> Currently serving member </institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> Luna Milita is a renowned military institution where Colonel Sarah Lee is currently serving, contributing her expertise and leadership skills. </institution_description>
+		</institutions>
+		<families>
+			<family>
+				<family_name> Lee </family_name>
+				<family_relation> By birth </family_relation> <!--Explanation: Indicates how the character is related to the family, whether by birth or by marriage.-->
+				<family_head> Thomas Lee (Colonel Sarah Lee's father and a retired military officer) </family_head> <!--Explanation: The head of the family, such as "John Longworth-Woodward", "N/A" if not applicable.-->
+				<family_description> The Lee family has a strong military tradition, with Colonel Sarah Lee following in the footsteps of her father, Thomas Lee, a retired military officer. </family_description>
+			</family>
+		</families>
+	</character_memberships>
+</character_data>

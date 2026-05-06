@@ -1,0 +1,132 @@
+<trump_speech_generator_locations>
+	# Worldbuilder - Locations
+	<locations_introduction>
+		The following are the primary locations where the story takes place. This can include specific cities, planets, space stations, or any relevant settings.
+	</locations_introduction>
+	
+	<location_entries>
+		# Star system entry: Sol
+		<star_system_entry star_system_id="sol">
+			<star_system_name> Sol </star_system_name>
+			<star_system_description> The star system that includes Earth, Luna, Mars, and Jupiter Station. It is the central hub of political and social activity in the story. </star_system_description>
+			<planet_entries>
+				<planet_entry planet_id="earth">
+					<planet_name> Earth </planet_name>
+					<planet_description> The home planet of humanity and the central hub of political and social activity in the story. </planet_description>
+					<planet_location_entries>
+						<planet_location_entry location_id="white_house">
+							<location_name> The White House </location_name>
+							<location_description> The official residence and workplace of the President of the United States, located in Washington, D.C. It serves as a key location for political events and decision-making in the story. </location_description>
+							<sublocation_entries>
+								<sublocation_entry sublocation_id="oval_office">
+									<sublocation_name> Oval Office </sublocation_name>
+									<sublocation_description> The official office of the President of the United States, located within the White House. It is a key location for presidential meetings and decision-making in the story. </sublocation_description>
+								</sublocation_entry>
+								<sublocation_entry sublocation_id="situation_room">
+									<sublocation_name> Situation Room </sublocation_name>
+									<sublocation_description> A secure conference room in the White House used for monitoring and managing crises. It is a key location for military and intelligence briefings in the story. </sublocation_description>
+								</sublocation_entry>
+								<sublocation_entry sublocation_id="brady_press_briefing_room">
+									<sublocation_name> Brady Press Briefing Room </sublocation_name>
+									<sublocation_description> A room in the White House used for press briefings and media interactions. It is a key location for communication between the President and the public in the story. </sublocation_description>
+								</sublocation_entry>
+							</sublocation_entries>
+						</planet_location_entry>
+						<planet_location_entry location_id="space_navy_headquarters">
+							<location_name> Space Navy Headquarters </location_name>
+							<location_description> The central command center for the Space Navy, responsible for coordinating space defense and interstellar operations. It is a key location for military strategy and planning in the story. </location_description>
+						</planet_location_entry>
+						<planet_location_entry location_id="pentagon">
+							<location_name> The Pentagon </location_name>
+							<location_description> The headquarters of the United States Department of Defense, located in Arlington, Virginia. It serves as a key location for military strategy and decision-making in the story. </location_description>
+						</planet_location_entry>
+					</planet_location_entries>
+					<satellite_entries>
+						<satellite_entry satellite_id="luna">
+							<satellite_name> Luna (Moon) </satellite_name>
+							<satellite_description> Earth's natural satellite, which has been colonized and serves as a key location for scientific research and space exploration. </satellite_description>
+							<satellite_location_entries>
+								<satellite_location_entry location_id="crater_edge_pub">
+									<location_name> Crater's Edge Pub </location_name>
+									<location_description> A cozy bar and restaurant located in the Luna colony on the Moon. It is known for its stunning views of lunar craters, exclusive moon-themed cocktails, and warm atmosphere. The pub serves as a gathering place for colonists and visitors alike, offering a unique dining experience with a lunar ambiance. </location_description>
+								</satellite_location_entry>
+							</satellite_location_entries>
+						</satellite_entry>
+					</satellite_entries>
+				</planet_entry>
+				<planet_entry planet_id="mars">
+					<planet_name> Mars </planet_name>
+					<planet_description> The fourth planet from the Sun, which has been colonized and is a major site for mining and scientific research. </planet_description>
+				</planet_entry>
+				<planet_entry planet_id="jupiter">
+					<planet_name> Jupiter </planet_name>
+					<planet_description> The largest planet in the Solar System, which serves as a strategic location for space stations and interstellar travel. </planet_description>
+					<space_station_entries>
+						<space_station_entry space_station_id="jupiter_station">
+							<space_station_name> Jupiter Station </space_station_name>
+							<space_station_description> A large space station orbiting Jupiter, serving as a hub for interstellar travel and commerce. </space_station_description>
+							<space_station_location_entries>
+								<space_station_location_entry location_id="jupiter_pub_and_grill">
+									<location_name> Jupiter Pub and Grill </location_name>
+									<location_description> A popular bar and restaurant located on the Jupiter Station, orbiting Jupiter. It is known for its wide selection of interstellar beverages, live music and entertainment, and panoramic views of Jupiter. The establishment serves as a social hub for travelers and residents of the station, offering a unique dining experience with a space-themed ambiance. </location_description>
+								</space_station_location_entry>
+							</space_station_location_entries>
+						</space_station_entry>
+					</space_station_entries>
+				</planet_entry>
+			</planet_entries>
+		</star_system_entry>
+		
+		# Star system entry: Alpha Centauri
+		<star_system_entry star_system_id="alpha_centauri">
+			<star_system_name> Alpha Centauri </star_system_name>
+			<star_system_description> The closest star system to Earth, which has been colonized and is a key location for interstellar diplomacy and conflict. </star_system_description>
+			<planet_entries>
+				<planet_entry planet_id="proxima_centauri_iii">
+					<planet_name> Proxima Centauri III </planet_name>
+					<planet_description> A planet in the Proxima Centauri system that has been colonized and serves as a key location for scientific research and interstellar diplomacy. </planet_description>
+					<planet_location_entries>
+						<planet_location_entry location_id="alpha_pub_hub">
+							<location_name> Alpha Pub Hub </location_name>
+							<location_description> A modern bar and restaurant located in the Proxima Centauri III colony. It is known for its futuristic design, panoramic views of Proxima Centauri, and exclusive interstellar cocktails. The pub serves as a social hub for colonists and travelers, offering a unique dining experience with a space-themed ambiance. </location_description>
+						</planet_location_entry>
+					</planet_location_entries>
+				</planet_entry>
+			</planet_entries>
+		</star_system_entry>
+		
+		# Star system entry: Rigel
+		<star_system_entry star_system_id="rigel">
+			<star_system_name> Rigel </star_system_name>
+			<star_system_description> A distant star system that serves as a mysterious and strategic location in the story. </star_system_description>
+			<planet_entries>
+				<planet_entry planet_id="rigel_iv">
+					<planet_name> Rigel IV </planet_name>
+					<planet_description> A planet in the Rigel system that is a key location for interstellar conflict and intrigue. </planet_description>
+				</planet_entry>
+					<satellite_entries>
+						<satellite_entry satellite_id="rigel_iv_moon">
+							<satellite_name> Rigel IVa </satellite_name>
+							<satellite_description> A moon orbiting Rigel IV that is a key location for secret meetings and covert operations. </satellite_description>
+						</satellite_entry>
+					</satellite_entries>
+				<planet_entry planet_id="rigel_v">
+					<planet_name> Rigel V </planet_name>
+					<planet_description> A planet in the Rigel system that is a key location for smuggling and piracy. </planet_description>
+				</planet_entry>
+			</planet_entries>
+			<space_station_entries>
+				<space_station_entry space_station_id="rigel_outpost">
+					<space_station_name> Rigel Outpost </space_station_name>
+					<space_station_description> A remote space station in the Rigel system that serves as a strategic location for military operations and espionage. </space_station_description>
+				</space_station_entry>
+			</space_station_entries>
+			<asteroid_belt_entries>
+				<asteroid_belt_entry asteroid_belt_id="rigel_asteroid_belt">
+					<asteroid_belt_name> Rigel Asteroid Belt </asteroid_belt_name>
+					<asteroid_belt_description> An asteroid belt in the Rigel system that serves as a hideout for smugglers and pirates. </asteroid_belt_description>
+				</asteroid_belt_entry>
+			</asteroid_belt_entries>
+		</star_system_entry>
+	</location_entries>
+</trump_speech_generator_locations>

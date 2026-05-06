@@ -1,0 +1,256 @@
+<character_data character_id="106" character_name_id="emily_chen" character_full_name="Dr. Emily Chen" character_type="fictional_character" appears_on_panel_discussions="yes">
+	<character_name_data>
+		<full_name> Dr. Emily Chen </full_name> <!--Explanation: The long form of the character's full name, used in formal contexts (e.g. Donald John Trump).-->
+		<full_name_short_form> Emily Chen </full_name_short_form> <!--Explanation: The short form of the character's full name, used in informal contexts (e.g. Donald Trump).-->
+		<first_name> Emily </first_name>
+		<middle_name></middle_name>
+		<last_name> Chen </last_name>
+		<maiden_name> N/A </maiden_name> <!--Explanation: The maiden name of the character, used for example, to indicate the character's family background or to distinguish them from other characters with similar names. Set to "N/A" if not applicable.-->
+		<nicknames> <!--Explanation: Nicknames that are given and used by other characters in the story for this character.-->
+			<nickname_entry>
+				<nickname> Em </nickname>
+				<nickname_used_by> Colleagues and close friends </nickname_used_by>
+				<nickname_description> A shortened, informal version of her first name, used by those familiar with her. </nickname_description>
+			</nickname_entry>
+		</nicknames>
+	</character_name_data>
+	
+	<character_demographic_data>
+		<sex> Female </sex>
+		<sexual_orientation> Heterosexual </sexual_orientation>
+		<marital_status> Single </marital_status> <!--Explanation: The marital status of the character, such as "Single", "Married", "Divorced", or any other status that is relevant to the character's role in the story.-->
+		<marital_spouse> N/A </marital_spouse> <!--Explanation: The name of the character's spouse, if applicable; otherwise, set to "N/A" if not applicable.-->
+		<heritage> Asian </heritage>
+		<age as_of_year="2039"> 38 </age> <!--Explanation: The as_of_year attribute indicates the year as of which the age is calculated; 2039 in this case is the year in the story.-->
+		<date_of_birth> 12 March 2001 </date_of_birth>
+		<place_of_birth> Beijing, China </place_of_birth>
+	</character_demographic_data>
+	
+	<roles> Scientist, researcher </roles>
+	
+	<character_employment_data>
+		<titles> <!--Explanation: The titles of the character, such as "Detective", "Doctor", "Professor", "CEO", or any other title that is relevant to the character's role in the story; otherwise, set to "N/A" if not applicable.-->
+			<title_entry>
+				<title> Director, Human Research, Proxima Centauri Institute of Advanced Scientific Research </title>
+				<title_description> Oversees the human research department, managing projects and guiding scientific investigations. </title_description>
+			</title_entry>
+		</titles>
+		<occupation> Scientist </occupation> <!--Explanation: The occupation of the character, such as "Detective", "Doctor", "Professor", "CEO", "High school student", or any other occupation that is relevant to the character's role in the story.-->
+	</character_employment_data>
+	
+	<primary_location> Proxima Centauri III colony, Alpha Centauri sector </primary_location>
+	
+	<character_appearance_data>
+		<body_attributes>
+			<eye_color> Brown </eye_color>
+			<hair_color> Black </hair_color>
+			<typical_hair_length> Medium </typical_hair_length> <!--Explanation: The typical hair length of the character, such as "Short", "Medium", "Long", or any other description that is relevant to the character's appearance.-->
+			<skin_tone> Light </skin_tone>
+			<height> 5'6'' (168 cm) </height> <!--Explanation: The value for this attribute to describe the character's height is given in the following format: "X'Y'' (Z cm)", where X is the number of feet, Y is the number of inches, and Z is the height in centimeters.-->
+			<weight> 130 lbs (59 kg) </weight> <!--Explanation: The value for this attribute to describe the character's weight is given in the following format: "X lbs (X kg)".-->
+			<body_type> Slim </body_type> <!--Explanation: The body type of the character, such as "Slim", "Athletic", "Curvy", "Muscular", or any other description that is relevant to the character's appearance.-->
+		</body_attributes>
+		<body_features> <!--Explanation: Describes any unique or distinguishing features of the character's body, such as scars, tattoos, birthmarks, or other notable attributes.-->
+			<body_feature_entry>
+				<feature_name></feature_name>
+				<feature_description></feature_description>
+			</body_feature_entry>
+		</body_features>
+		<posture>
+			<posture_description> Upright and confident </posture_description>
+		</posture>
+		<expressiveness>
+			<expressiveness_description> Calm and composed </expressiveness_description>
+		</expressiveness>
+		<attire_and_style>
+			<attire_and_style_description> Professional and practical attire suitable for a scientist working in a space colony. </attire_and_style_description>
+			<attire_and_style_traits>
+				<attire_and_style_trait>
+					<trait_name> Practical </trait_name>
+					<trait_description> The character prefers clothing that is functional and suitable for a scientific environment. </trait_description>
+				</attire_and_style_trait>
+			</attire_and_style_traits>
+		</attire_and_style>
+		<signature_items> <!--Explanation: Signature items are the objects that the character always have, like a camera, a locket, or a weapon, for example.-->
+			<signature_items_description> Dr. Emily Chen's signature items include her lab coat and a tablet for recording scientific data. </signature_items_description>
+			<signature_item_entry>
+				<signature_item_name> Lab Coat </signature_item_name>
+				<signature_item_description> A white lab coat that signifies her role as a scientist. </signature_item_description>
+			</signature_item_entry>
+			<signature_item_entry>
+				<signature_item_name> Tablet </signature_item_name>
+				<signature_item_description> A tablet used for recording and analyzing scientific data. </signature_item_description>
+			</signature_item_entry>
+		</signature_items>
+	</character_appearance_data>
+	
+	<personality_and_speech_data>
+		<personality_description> Dr. Emily Chen is a highly intelligent and analytical scientist, known for her calm and composed demeanor. She is dedicated to her work and values precision and accuracy in all her endeavors. </personality_description>
+		<personality_traits>
+			<personality_trait_entry>
+				<personality_trait_name> Analytical </personality_trait_name>
+				<personality_trait_description> Dr. Chen has a keen eye for detail and excels at analyzing complex data and solving problems. She approaches challenges methodically and relies on evidence-based reasoning. </personality_trait_description>
+			</personality_trait_entry>
+		</personality_traits>
+		<profanity_tendency> <!--Explanation: Profanity tendency is a measure of how likely the character is to use profanity in their speech. It is on the scale of 0 to 10, where 0 means the character never uses profanity and 10 means the character uses profanity very frequently.-->
+			<profanity_tendency_description> N/A </profanity_tendency_description> <!--Example: "Jack has a moderate profanity tendency, using profanity occasionally in his speech. His use of profanity is often a reflection of his rebellious nature and his desire to express himself in a more edgy and authentic way. However, he is also mindful of his image and may choose to limit his use of profanity in certain social situations." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			<profanity_tendency_entry>
+				<profanity_tendency_level> 0 </profanity_tendency_level> <!--Example: "5".-->
+				<profanity_tendency_example> N/A </profanity_tendency_example> <!--Example: "Jack might use mild to moderate profanity like "damn", "hell", or "shit" in casual conversations with his peers, especially when he's frustrated or trying to make a point. However, in extreme situations, he may use stronger language to express his emotions." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			</profanity_tendency_entry>
+		</profanity_tendency>
+		<speech_style>
+			<speech_style_description> Dr. Emily Chen's speech style is precise and methodical, reflecting her analytical nature. She chooses her words carefully and communicates complex ideas clearly and concisely. </speech_style_description>
+			<speech_style_traits>
+				<speech_style_trait>
+					<speech_style_trait_name> Precise </speech_style_trait_name>
+					<speech_style_trait_description> Dr. Chen articulates her thoughts with clarity and accuracy, ensuring that her message is understood without ambiguity. </speech_style_trait_description>
+				</speech_style_trait>
+			</speech_style_traits>
+		</speech_style>
+		<quirks> <!--Explanation: Quirks, for the purpose of this section, are defined as odd habits or unique behaviors.-->
+			<quirk_entry>
+				<quirk_name> Meticulous organization </quirk_name>
+				<quirk_description> Dr. Chen has a habit of meticulously organizing her workspace and lab equipment, ensuring everything is in its proper place. </quirk_description>
+			</quirk_entry>
+		</quirks>
+		<flaws> <!--Explanation: Flaws, for the purpose of this section, are defined as the internal "cracks" that make them human.-->
+			<flaw_entry>
+				<flaw_name> Perfectionism </flaw_name>
+				<flaw_description> Dr. Chen's meticulous nature can sometimes lead to perfectionism, causing her to be overly critical of herself and others. </flaw_description>
+			</flaw_entry>
+		</flaws>
+	</personality_and_speech_data>
+	
+	<character_sensory_and_lifestyle_profile>
+		<drinking_preferences>
+			<drinking_preferences_description> Dr. Chen prefers non-alcoholic beverages, favoring herbal teas and sparkling water. </drinking_preferences_description>
+			<drinking_preference_entry> <!--Explanation: An entry should specify a beverage like, for example, beer, rather than just generic alcohol, and a description of the character's preference.-->
+				<beverage> Herbal tea </beverage>
+				<preference_description> Dr. Chen enjoys a variety of herbal teas, appreciating their calming effects and subtle flavors. </preference_description>
+			</drinking_preference_entry>
+		</drinking_preferences>
+		<food_preferences>
+			<food_preferences_description> Dr. Chen prefers healthy and balanced meals, often opting for fresh vegetables, lean proteins, and whole grains. </food_preferences_description>
+			<food_preference_entry>
+				<cuisine> Asian </cuisine>
+				<preference_description> Dr. Chen enjoys a variety of Asian cuisines, appreciating the balance of flavors and the use of fresh ingredients. </preference_description>
+			</food_preference_entry>
+		</food_preferences>
+		<music_preferences>
+			<music_preferences_description> Dr. Chen enjoys listening to classical music, finding it both relaxing and intellectually stimulating. </music_preferences_description>
+			<music_preference_entry>
+				<genre> Classical </genre>
+				<preference_description> Dr. Chen appreciates the complexity and beauty of classical compositions, often listening to them while working or relaxing. </preference_description>
+			</music_preference_entry>
+		</music_preferences>
+		<film_preferences> <!--Explanation: Film preferences including, for example, favorite genres or specific film/shows the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<film_preferences_description> Dr. Chen enjoys a variety of films, appreciating both their artistic and narrative qualities. </film_preferences_description>
+			<film_preference_entry>
+				<genre> Drama </genre>
+				<preference_description> Dr. Chen is particularly drawn to dramas, finding their exploration of human emotions and relationships compelling. </preference_description>
+			</film_preference_entry>
+		</film_preferences>
+		<literature_preferences> <!--Explanation: Literature preferences including, for example, favorite genres or specific books the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<literature_preferences_description> Dr. Chen enjoys reading a variety of literature, appreciating both classic and contemporary works. </literature_preferences_description>
+			<literature_preference_entry>
+				<genre> Fiction </genre>
+				<preference_description> Dr. Chen is particularly drawn to fiction, finding it a compelling way to explore different perspectives and human experiences. </preference_description>
+			</literature_preference_entry>
+		</literature_preferences>
+		<video_game_preferences> <!--Explanation: Video game preferences including, for example, favorite genres or specific games the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<video_game_preferences_description> N/A </video_game_preferences_description>
+			<video_game_preference_entry>
+				<genre> N/A </genre>
+				<preference_description> N/A </preference_description>
+			</video_game_preference_entry>
+		</video_game_preferences>
+		<hobbies>
+			<hobbies_description> Dr. Chen enjoys a variety of hobbies, including activities that promote relaxation and creativity. </hobbies_description>
+			<hobbies_entry>
+				<hobby> Gardening </hobby>
+				<hobby_description> Dr. Chen finds gardening to be a peaceful and rewarding activity, allowing her to connect with nature and unwind. </hobby_description>
+			</hobbies_entry>
+		</hobbies>
+		<interests>
+			<interests_description> Dr. Chen has a wide range of interests, from scientific research to cultural exploration. </interests_description>
+			<interest> Scientific Research </interest>
+		</interests>
+	</character_sensory_and_lifestyle_profile>
+	
+	<character_goal_and_motivation_data>
+		<goals_and_motivations_description> Dr. Chen is driven by a desire to make meaningful contributions to her field and to understand the world around her. </goals_and_motivations_description>
+		<internal_goal> <!--Explanation: What they want to feel or find internally—e.g., peace, belonging.-->
+			<internal_goal_entry>
+				<internal_goal_description> Achieve a sense of fulfillment and purpose in her work. </internal_goal_description> <!--Explanation: A short description of the internal goal.-->
+				<goal_motivation> Dr. Chen's internal goal is to achieve a sense of fulfillment and purpose in her work, which drives her to continually seek new knowledge and understanding. </goal_motivation> <!--Explanation: A detailed description of how this internal goal motivates the character to pursue their external goals and navigate their relationships.-->
+			</internal_goal_entry>
+		</internal_goal>
+		<external_goal>
+			<external_goal_entry>
+				<external_goal_description> Make significant contributions to her field of study. </external_goal_description> <!--Explanation: A short description of the external goal.-->
+				<goal_motivation> Dr. Chen's external goal is to make significant contributions to her field of study, which motivates her to conduct rigorous research and collaborate with other experts. </goal_motivation> <!--Explanation: A detailed description of how this external goal motivates the character to pursue their internal goals and navigate their relationships.-->
+			</external_goal_entry>
+		</external_goal> <!--Explanation: The tangible thing they are trying to achieve in the world.-->
+		<the_why> <!--Explanation: The specific reason or trauma that fuels these goals.-->
+			<the_why_entry>
+				<reason_description> A deep curiosity and a desire to contribute to the advancement of knowledge in her field. </reason_description> <!--Explanation: A short description of the reason behind the goal.-->
+				<reason_motivation> Dr. Chen's motivation is fueled by a deep curiosity and a desire to contribute to the advancement of knowledge in her field. </reason_motivation> <!--Explanation: A detailed description of how this reason motivates the character to pursue their goals.-->
+			</the_why_entry>
+		</the_why>
+		<aspirations>
+			<aspiration>
+				<aspiration_description> Become a leading expert in her field. </aspiration_description> <!--Explanation: Short description of the aspiration, such as "Become a detective", "Find true love", "Achieve world peace", or any other aspiration that is relevant to the character's role in the story.-->
+				<aspiration_motivation> Dr. Chen's aspiration to become a leading expert in her field motivates her to continually expand her knowledge, engage in innovative research, and contribute to the scientific community. </aspiration_motivation> <!--Explanation: A detailed description of how this aspiration motivates the character to pursue their goals.-->
+			</aspiration>
+		</aspirations>
+	</character_goal_and_motivation_data>
+	
+	<character_background>
+		<character_background_description> Dr. Emily Chen is a dedicated and passionate researcher with a strong commitment to advancing knowledge in her field. </character_background_description>
+		<family_background> Dr. Chen comes from a family of academics, which has greatly influenced her passion for research and knowledge. </family_background>
+		<childhood_and_upbringing> Dr. Chen's childhood was filled with intellectual stimulation and encouragement to pursue her interests in science and research. </childhood_and_upbringing>
+	</character_background>
+	
+	<character_relationship_data>
+		<relationship_entry>
+			<relationship_type></relationship_type>
+			<relationship_dynamic></relationship_dynamic> <!--Explanation: The relationship dynamic describes the nature of the relationship between the character and the other character, such as "Best friends", "Siblings", "Romantic partners", "Rivals", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<latent_dynamic></latent_dynamic> <!--Explanation: The latent dynamic describes the underlying emotional or psychological forces that influence the relationship between the character and the other character, such as "Unresolved sibling rivalry", "Shared trauma", "Unspoken romantic tension", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<relationship_name></relationship_name>
+			<relationship_description></relationship_description>
+		</relationship_entry>
+	</character_relationship_data>
+	
+	<character_memberships>
+		<groups> <!--Explanation: Groups including, for example, clubs, teams, or other social organizations the character is part of.-->
+			<group>
+				<group_name></group_name>
+				<group_type></group_type> <!--Explanation: The type of group, such as "Sports team", "Academic club", "Social group", "Extracurricular activity", etc.-->
+				<group_description></group_description>
+			</group>
+		</groups>
+		<institutions> <!--Explanation: Institutions including, for example, schools, universities, or other organizations the character is part of.-->
+			<institution>
+				<institution_name> University of Beijing </institution_name>
+				<institution_type> Higher education institution </institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status> Alumnus </institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> A prestigious university known for its research programs and academic excellence, where Dr. Chen completed her studies and developed a strong foundation in her field. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> Proxima Centauri Institute of Advanced Scientific Research </institution_name>
+				<institution_type> Research institution </institution_type>
+				<institution_status> Current employee </institution_status>
+				<institution_description> Dr. Emily Chen currently works at the Proxima Centauri Institute of Advanced Scientific Research, where she is involved in cutting-edge scientific projects and contributes to advancements in her field. </institution_description>
+			</institution>
+		</institutions>
+		<families>
+			<family>
+				<family_name> Chen </family_name>
+				<family_relation> By birth </family_relation> <!--Explanation: Indicates how the character is related to the family, whether by birth or by marriage.-->
+				<family_head> N/A </family_head> <!--Explanation: The head of the family, such as "John Longworth-Woodward", "N/A" if not applicable.-->
+				<family_description> The Chen family is known for their academic achievements and dedication to education. </family_description>
+			</family>
+		</families>
+	</character_memberships>
+</character_data>

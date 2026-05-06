@@ -1,0 +1,256 @@
+<character_data character_id="103" character_name_id="jane_smith" character_full_name="Jane Alexandra Smith" character_type="fictional_character" appears_on_panel_discussions="yes">
+	<character_name_data>
+		<full_name> Jane Alexandra Smith </full_name> <!--Explanation: The long form of the character's full name, used in formal contexts (e.g. Donald John Trump).-->
+		<full_name_short_form> Jane Smith </full_name_short_form> <!--Explanation: The short form of the character's full name, used in informal contexts (e.g. Donald Trump).-->
+		<first_name> Jane </first_name>
+		<middle_name> Alexandra </middle_name>
+		<last_name> Smith </last_name>
+		<maiden_name> N/A </maiden_name> <!--Explanation: The maiden name of the character, used for example, to indicate the character's family background or to distinguish them from other characters with similar names. Set to "N/A" if not applicable.-->
+		<nicknames> <!--Explanation: Nicknames that are given and used by other characters in the story for this character.-->
+			<nickname_entry>
+				<nickname> Alex </nickname>
+				<nickname_used_by> Friends and family </nickname_used_by>
+				<nickname_description> A shortened form of her middle name, commonly used by those close to her. </nickname_description>
+			</nickname_entry>
+		</nicknames>
+	</character_name_data>
+	
+	<character_demographic_data>
+		<sex> Female </sex>
+		<sexual_orientation> Heterosexual </sexual_orientation>
+		<marital_status> Single </marital_status> <!--Explanation: The marital status of the character, such as "Single", "Married", "Divorced", or any other status that is relevant to the character's role in the story.-->
+		<marital_spouse> N/A </marital_spouse> <!--Explanation: The name of the character's spouse, if applicable; otherwise, set to "N/A" if not applicable.-->
+		<heritage> Caucasian </heritage>
+		<age as_of_year="2039"> 30 </age> <!--Explanation: The as_of_year attribute indicates the year as of which the age is calculated; 2039 in this case is the year in the story.-->
+		<date_of_birth> 14 June 2009 </date_of_birth>
+		<place_of_birth> New York City, New York, USA </place_of_birth>
+	</character_demographic_data>
+	
+	<roles></roles>
+	
+	<character_employment_data>
+		<titles> <!--Explanation: The titles of the character, such as "Detective", "Doctor", "Professor", "CEO", or any other title that is relevant to the character's role in the story; otherwise, set to "N/A" if not applicable.-->
+			<title_entry>
+				<title> Director of Space Research, Proxima Centauri Institute of Advanced Scientific Research </title>
+				<title_description> The head of the space research division at the Proxima Centauri Institute of Advanced Scientific Research, responsible for overseeing all space-related scientific projects and missions. </title_description>
+			</title_entry>
+		</titles>
+		<occupation> Space scientist </occupation> <!--Explanation: The occupation of the character, such as "Detective", "Doctor", "Professor", "CEO", "High school student", or any other occupation that is relevant to the character's role in the story.-->
+	</character_employment_data>
+	
+	<primary_location> Proxima Centauri III colony, Alpha Centauri sector </primary_location>
+	
+	<character_appearance_data>
+		<body_attributes>
+			<eye_color> Blue </eye_color>
+			<hair_color> Blonde </hair_color>
+			<typical_hair_length> Medium </typical_hair_length> <!--Explanation: The typical hair length of the character, such as "Short", "Medium", "Long", or any other description that is relevant to the character's appearance.-->
+			<skin_tone> Fair </skin_tone>
+			<height> 5'6'' (168 cm) </height> <!--Explanation: The value for this attribute to describe the character's height is given in the following format: "X'Y'' (Z cm)", where X is the number of feet, Y is the number of inches, and Z is the height in centimeters.-->
+			<weight> 130 lbs (59 kg) </weight> <!--Explanation: The value for this attribute to describe the character's weight is given in the following format: "X lbs (X kg)".-->
+			<body_type> Slim </body_type> <!--Explanation: The body type of the character, such as "Slim", "Athletic", "Curvy", "Muscular", or any other description that is relevant to the character's appearance.-->
+		</body_attributes>
+		<body_features> <!--Explanation: Describes any unique or distinguishing features of the character's body, such as scars, tattoos, birthmarks, or other notable attributes.-->
+			<body_feature_entry>
+				<feature_name></feature_name>
+				<feature_description></feature_description>
+			</body_feature_entry>
+		</body_features>
+		<posture>
+			<posture_description> Upright and confident </posture_description>
+		</posture>
+		<expressiveness>
+			<expressiveness_description> Animated and expressive </expressiveness_description>
+		</expressiveness>
+		<attire_and_style>
+			<attire_and_style_description> Professional and practical </attire_and_style_description>
+			<attire_and_style_traits>
+				<attire_and_style_trait>
+					<trait_name> Practicality </trait_name>
+					<trait_description> Jane Smith prefers practical and professional attire suitable for a space scientist. She often wears lab coats, comfortable shoes, and minimal accessories to maintain a focus on her work. </trait_description>
+				</attire_and_style_trait>
+			</attire_and_style_traits>
+		</attire_and_style>
+		<signature_items> <!--Explanation: Signature items are the objects that the character always have, like a camera, a locket, or a weapon, for example.-->
+			<signature_items_description> Jane Smith's signature items include a high-tech tablet and a set of scientific instruments that she always carries for her research. </signature_items_description>
+			<signature_item_entry>
+				<signature_item_name> High-tech tablet </signature_item_name>
+				<signature_item_description> A versatile tablet used for data analysis, communication, and research purposes. </signature_item_description>
+			</signature_item_entry>
+			<signature_item_entry>
+				<signature_item_name> Scientific instruments </signature_item_name>
+				<signature_item_description> A set of specialized tools and instruments essential for her scientific experiments and observations. </signature_item_description>
+			</signature_item_entry>
+		</signature_items>
+	</character_appearance_data>
+	
+	<personality_and_speech_data>
+		<personality_description> Jane Smith is a highly intelligent and curious individual with a passion for scientific discovery. She is analytical, detail-oriented, and driven by a desire to understand the universe. </personality_description>
+		<personality_traits>
+			<personality_trait_entry>
+				<personality_trait_name> Curiosity </personality_trait_name>
+				<personality_trait_description> Jane Smith has an insatiable curiosity and a strong desire to explore and understand the world around her. She is constantly seeking new knowledge and experiences, driven by a deep fascination with the mysteries of the universe. </personality_trait_description>
+			</personality_trait_entry>
+		</personality_traits>
+		<profanity_tendency> <!--Explanation: Profanity tendency is a measure of how likely the character is to use profanity in their speech. It is on the scale of 0 to 10, where 0 means the character never uses profanity and 10 means the character uses profanity very frequently.-->
+			<profanity_tendency_description></profanity_tendency_description> <!--Example: "Jack has a moderate profanity tendency, using profanity occasionally in his speech. His use of profanity is often a reflection of his rebellious nature and his desire to express himself in a more edgy and authentic way. However, he is also mindful of his image and may choose to limit his use of profanity in certain social situations." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			<profanity_tendency_entry>
+				<profanity_tendency_level></profanity_tendency_level> <!--Example: "5".-->
+				<profanity_tendency_example></profanity_tendency_example> <!--Example: "Jack might use mild to moderate profanity like "damn", "hell", or "shit" in casual conversations with his peers, especially when he's frustrated or trying to make a point. However, in extreme situations, he may use stronger language to express his emotions." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			</profanity_tendency_entry>
+		</profanity_tendency>
+		<speech_style>
+			<speech_style_description> Jane Smith communicates in a clear, concise, and precise manner, often using technical terminology related to her field of expertise. </speech_style_description>
+			<speech_style_traits>
+				<speech_style_trait>
+					<speech_style_trait_name> Analytical </speech_style_trait_name>
+					<speech_style_trait_description> Jane Smith's speech is characterized by logical reasoning and a methodical approach to problem-solving. She often breaks down complex concepts into understandable components and presents her findings in a structured manner. </speech_style_trait_description>
+				</speech_style_trait>
+			</speech_style_traits>
+		</speech_style>
+		<quirks> <!--Explanation: Quirks, for the purpose of this section, are defined as odd habits or unique behaviors.-->
+			<quirk_entry>
+				<quirk_name> Talking to herself </quirk_name>
+				<quirk_description> Jane Smith has a habit of talking to herself while working on experiments, often muttering scientific terms and hypotheses under her breath. </quirk_description>
+			</quirk_entry>
+		</quirks>
+		<flaws> <!--Explanation: Flaws, for the purpose of this section, are defined as the internal "cracks" that make them human.-->
+			<flaw_entry>
+				<flaw_name> Overthinking </flaw_name>
+				<flaw_description> Jane Smith has a tendency to overanalyze situations, which can lead to indecision and hesitation. This flaw can sometimes hinder her ability to make quick decisions or take decisive action. </flaw_description>
+			</flaw_entry>
+		</flaws>
+	</personality_and_speech_data>
+	
+	<character_sensory_and_lifestyle_profile>
+		<drinking_preferences>
+			<drinking_preferences_description> Jane Smith prefers non-alcoholic beverages, often opting for herbal teas and sparkling water. </drinking_preferences_description>
+			<drinking_preference_entry> <!--Explanation: An entry should specify a beverage like, for example, beer, rather than just generic alcohol, and a description of the character's preference.-->
+				<beverage> Herbal tea </beverage>
+				<preference_description> Jane Smith enjoys a variety of herbal teas, finding them soothing and conducive to concentration during her work. </preference_description>
+			</drinking_preference_entry>
+		</drinking_preferences>
+		<food_preferences>
+			<food_preferences_description> Jane Smith prefers healthy and balanced meals, often opting for fresh fruits, vegetables, and lean proteins. </food_preferences_description>
+			<food_preference_entry>
+				<cuisine> Healthy </cuisine>
+				<preference_description> Jane Smith enjoys meals that are nutritious and well-balanced, focusing on fresh ingredients and minimal processed foods. </preference_description>
+			</food_preference_entry>
+		</food_preferences>
+		<music_preferences>
+			<music_preferences_description> Jane Smith has a preference for classical and instrumental music, finding it helps her focus and think more clearly. </music_preferences_description>
+			<music_preference_entry>
+				<genre> Classical </genre>
+				<preference_description> Jane Smith enjoys listening to classical music, appreciating its complexity and the way it stimulates her mind. </preference_description>
+			</music_preference_entry>
+		</music_preferences>
+		<film_preferences> <!--Explanation: Film preferences including, for example, favorite genres or specific film/shows the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<film_preferences_description> Jane Smith enjoys thought-provoking and intellectually stimulating films, often favoring documentaries and dramas. </film_preferences_description>
+			<film_preference_entry>
+				<genre> Documentary </genre>
+				<preference_description> Jane Smith appreciates documentaries for their educational value and the insights they provide into various subjects. </preference_description>
+			</film_preference_entry>
+		</film_preferences>
+		<literature_preferences> <!--Explanation: Literature preferences including, for example, favorite genres or specific books the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<literature_preferences_description> Jane Smith enjoys reading scientific journals and research papers, as well as classic literature that challenges her thinking. </literature_preferences_description>
+			<literature_preference_entry>
+				<genre> Scientific journals </genre>
+				<preference_description> Jane Smith values scientific journals for their detailed and accurate presentation of research findings. </preference_description>
+			</literature_preference_entry>
+		</literature_preferences>
+		<video_game_preferences> <!--Explanation: Video game preferences including, for example, favorite genres or specific games the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<video_game_preferences_description> Jane Smith does not have a strong preference for video games, often finding them less engaging than other forms of entertainment. </video_game_preferences_description>
+			<video_game_preference_entry>
+				<genre> N/A </genre>
+				<preference_description> N/A </preference_description>
+			</video_game_preference_entry>
+		</video_game_preferences>
+		<hobbies>
+			<hobbies_description> Jane Smith enjoys a variety of hobbies that stimulate her mind and creativity. </hobbies_description>
+			<hobbies_entry>
+				<hobby> Reading </hobby>
+				<hobby_description> Jane Smith enjoys reading books, particularly those that challenge her thinking and expand her knowledge. </hobby_description>
+			</hobbies_entry>
+		</hobbies>
+		<interests>
+			<interests_description> Jane Smith has a keen interest in scientific discoveries and technological advancements. </interests_description>
+			<interest> Scientific research </interest>
+		</interests>
+	</character_sensory_and_lifestyle_profile>
+	
+	<character_goal_and_motivation_data>
+		<goals_and_motivations_description> Jane Smith is driven by a desire to expand her knowledge and contribute to scientific advancements. </goals_and_motivations_description>
+		<internal_goal> <!--Explanation: What they want to feel or find internally—e.g., peace, belonging.-->
+			<internal_goal_entry>
+				<internal_goal_description> Achieve a deep understanding of the world around her </internal_goal_description> <!--Explanation: A short description of the internal goal.-->
+				<goal_motivation> Jane Smith's internal goal is to achieve a deep understanding of the world around her, which drives her to pursue scientific research and technological advancements. </goal_motivation> <!--Explanation: A detailed description of how this internal goal motivates the character to pursue their external goals and navigate their relationships.-->
+			</internal_goal_entry>
+		</internal_goal>
+		<external_goal>
+			<external_goal_entry>
+				<external_goal_description> Contribute to scientific advancements </external_goal_description> <!--Explanation: A short description of the external goal.-->
+				<goal_motivation> Jane Smith's external goal is to contribute to scientific advancements, which motivates her to apply her knowledge and skills in research and innovation. </goal_motivation> <!--Explanation: A detailed description of how this external goal motivates the character to pursue their internal goals and navigate their relationships.-->
+			</external_goal_entry>
+		</external_goal> <!--Explanation: The tangible thing they are trying to achieve in the world.-->
+		<the_why> <!--Explanation: The specific reason or trauma that fuels these goals.-->
+			<the_why_entry>
+				<reason_description> Jane Smith's motivation is fueled by a deep curiosity and passion for understanding the world. </reason_description> <!--Explanation: A short description of the reason behind the goal.-->
+				<reason_motivation> Jane Smith's motivation is fueled by a deep curiosity and passion for understanding the world, which drives her to pursue scientific research and technological advancements. </reason_motivation> <!--Explanation: A detailed description of how this reason motivates the character to pursue their goals.-->
+			</the_why_entry>
+		</the_why>
+		<aspirations>
+			<aspiration>
+				<aspiration_description> Make significant contributions to the field of science </aspiration_description> <!--Explanation: Short description of the aspiration, such as "Become a detective", "Find true love", "Achieve world peace", or any other aspiration that is relevant to the character's role in the story.-->
+				<aspiration_motivation> Jane Smith's aspiration is to make significant contributions to the field of science, which motivates her to continuously seek knowledge and innovate. </aspiration_motivation> <!--Explanation: A detailed description of how this aspiration motivates the character to pursue their goals.-->
+			</aspiration>
+		</aspirations>
+	</character_goal_and_motivation_data>
+	
+	<character_background>
+		<character_background_description> Jane Smith is a dedicated scientist with a passion for discovery and innovation. She is driven by a deep curiosity and a desire to make meaningful contributions to the field of science. </character_background_description>
+		<family_background> Jane Smith comes from a family of academics, which fostered her love for learning and exploration from a young age. </family_background>
+		<childhood_and_upbringing> Jane Smith's childhood was filled with curiosity-driven activities and encouragement from her family to pursue her interests in science. </childhood_and_upbringing>
+	</character_background>
+	
+	<character_relationship_data>
+		<relationship_entry>
+			<relationship_type></relationship_type>
+			<relationship_dynamic></relationship_dynamic> <!--Explanation: The relationship dynamic describes the nature of the relationship between the character and the other character, such as "Best friends", "Siblings", "Romantic partners", "Rivals", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<latent_dynamic></latent_dynamic> <!--Explanation: The latent dynamic describes the underlying emotional or psychological forces that influence the relationship between the character and the other character, such as "Unresolved sibling rivalry", "Shared trauma", "Unspoken romantic tension", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<relationship_name></relationship_name>
+			<relationship_description></relationship_description>
+		</relationship_entry>
+	</character_relationship_data>
+	
+	<character_memberships>
+		<groups> <!--Explanation: Groups including, for example, clubs, teams, or other social organizations the character is part of.-->
+			<group>
+				<group_name></group_name>
+				<group_type></group_type> <!--Explanation: The type of group, such as "Sports team", "Academic club", "Social group", "Extracurricular activity", etc.-->
+				<group_description></group_description>
+			</group>
+		</groups>
+		<institutions> <!--Explanation: Institutions including, for example, schools, universities, or other organizations the character is part of.-->
+			<institution> <!--Jane graduated from a prestigious university and works at a research institution.-->
+				<institution_name> Massachusetts Institute of Technology</institution_name>
+				<institution_type> Higher education institution </institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status>Alumnus</institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> Jane Smith graduated from the Massachusetts Institute of Technology, where she developed a strong foundation in scientific research and innovation. She continues to contribute to the scientific community through her work at a leading research institution. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> Proxima Centauri Institute of Advanced Scientific Research </institution_name>
+				<institution_type> Research institution </institution_type>
+				<institution_status> Current employee </institution_status>
+				<institution_description> Jane Smith currently works at the Proxima Centauri Institute of Advanced Scientific Research, where she is involved in cutting-edge scientific projects and contributes to advancements in her field. </institution_description>
+			</institution>
+		</institutions>
+		<families>
+			<family>
+				<family_name> Smith </family_name>
+				<family_relation> By birth </family_relation> <!--Explanation: Indicates how the character is related to the family, whether by birth or by marriage.-->
+				<family_head> N/A </family_head> <!--Explanation: The head of the family, such as "John Longworth-Woodward", "N/A" if not applicable.-->
+				<family_description> Jane Smith comes from a family of academics, which fostered her love for learning and exploration from a young age. </family_description>
+			</family>
+		</families>
+	</character_memberships>
+</character_data>

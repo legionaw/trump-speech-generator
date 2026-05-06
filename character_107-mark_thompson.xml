@@ -1,0 +1,258 @@
+<character_data character_id="107" character_name_id="mark_thompson" character_full_name="Mark Thompson" character_type="fictional_character" appears_on_panel_discussions="yes">
+	<character_name_data>
+		<full_name> Mark Thompson </full_name> <!--Explanation: The long form of the character's full name, used in formal contexts (e.g. Donald John Trump).-->
+		<full_name_short_form> Mark Thompson </full_name_short_form> <!--Explanation: The short form of the character's full name, used in informal contexts (e.g. Donald Trump).-->
+		<first_name> Mark </first_name>
+		<middle_name></middle_name>
+		<last_name> Thompson </last_name>
+		<maiden_name></maiden_name> <!--Explanation: The maiden name of the character, used for example, to indicate the character's family background or to distinguish them from other characters with similar names. Set to "N/A" if not applicable.-->
+		<nicknames> <!--Explanation: Nicknames that are given and used by other characters in the story for this character.-->
+			<nickname_entry>
+				<nickname></nickname>
+				<nickname_used_by></nickname_used_by>
+				<nickname_description></nickname_description>
+			</nickname_entry>
+		</nicknames>
+	</character_name_data>
+	
+	<character_demographic_data>
+		<sex> Male </sex>
+		<sexual_orientation> Heterosexual </sexual_orientation>
+		<marital_status> Married </marital_status> <!--Explanation: The marital status of the character, such as "Single", "Married", "Divorced", or any other status that is relevant to the character's role in the story.-->
+		<marital_spouse> Diana Thompson </marital_spouse> <!--Explanation: The name of the character's spouse, if applicable; otherwise, set to "N/A" if not applicable.-->
+		<heritage> Caucasian </heritage>
+		<age as_of_year="2039"> 45 </age> <!--Explanation: The as_of_year attribute indicates the year as of which the age is calculated; 2039 in this case is the year in the story.-->
+		<date_of_birth> 12 March 1994 </date_of_birth>
+		<place_of_birth> New York City, New York, United States, Earth </place_of_birth>
+	</character_demographic_data>
+	
+	<roles> Political analyst, founder, executive director </roles>
+	
+	<character_employment_data>
+		<titles> <!--Explanation: The titles of the character, such as "Detective", "Doctor", "Professor", "CEO", or any other title that is relevant to the character's role in the story; otherwise, set to "N/A" if not applicable.-->
+			<title_entry>
+				<title> Founder and Executive Director </title>
+				<title_description> Founder and Executive Director of the Thompson Group, a political think-tank. </title_description>
+			</title_entry>
+		</titles>
+		<occupation> Political analyst </occupation> <!--Explanation: The occupation of the character, such as "Detective", "Doctor", "Professor", "CEO", "High school student", or any other occupation that is relevant to the character's role in the story.-->
+	</character_employment_data>
+	
+	<primary_location> Washington, D.C., United States, Earth </primary_location>
+	
+	<character_appearance_data>
+		<body_attributes>
+			<eye_color> Blue </eye_color>
+			<hair_color> Brown </hair_color>
+			<typical_hair_length> Short </typical_hair_length> <!--Explanation: The typical hair length of the character, such as "Short", "Medium", "Long", or any other description that is relevant to the character's appearance.-->
+			<skin_tone> Fair </skin_tone>
+			<height> 6'0'' (183 cm) </height> <!--Explanation: The value for this attribute to describe the character's height is given in the following format: "X'Y'' (Z cm)", where X is the number of feet, Y is the number of inches, and Z is the height in centimeters.-->
+			<weight> 180 lbs (82 kg) </weight> <!--Explanation: The value for this attribute to describe the character's weight is given in the following format: "X lbs (X kg)".-->
+			<body_type> Athletic </body_type> <!--Explanation: The body type of the character, such as "Slim", "Athletic", "Curvy", "Muscular", or any other description that is relevant to the character's appearance.-->
+		</body_attributes>
+		<body_features> <!--Explanation: Describes any unique or distinguishing features of the character's body, such as scars, tattoos, birthmarks, or other notable attributes.-->
+			<body_feature_entry>
+				<feature_name></feature_name>
+				<feature_description></feature_description>
+			</body_feature_entry>
+		</body_features>
+		<posture>
+			<posture_description> Upright and confident </posture_description>
+		</posture>
+		<expressiveness>
+			<expressiveness_description> Moderate, with occasional gestures to emphasize points </expressiveness_description>
+		</expressiveness>
+		<attire_and_style>
+			<attire_and_style_description> Professional and polished, often seen in tailored suits and formal attire. </attire_and_style_description>
+			<attire_and_style_traits>
+				<attire_and_style_trait>
+					<trait_name> Formal </trait_name>
+					<trait_description> Prefers formal clothing suitable for professional settings. </trait_description>
+				</attire_and_style_trait>
+			</attire_and_style_traits>
+		</attire_and_style>
+		<signature_items> <!--Explanation: Signature items are the objects that the character always have, like a camera, a locket, or a weapon, for example.-->
+			<signature_items_description> As a political analyst, he often carries a notebook and a pen for taking notes during meetings and interviews. </signature_items_description>
+			<signature_item_entry>
+				<signature_item_name> Notebook </signature_item_name>
+				<signature_item_description> A leather-bound notebook used for jotting down important information and observations. </signature_item_description>
+			</signature_item_entry>
+			<signature_item_entry>
+				<signature_item_name> Pen </signature_item_name>
+				<signature_item_description> A high-quality pen used for writing in his notebook. </signature_item_description>
+			</signature_item_entry>
+		</signature_items>
+	</character_appearance_data>
+	
+	<personality_and_speech_data>
+		<personality_description> Mark Thompson is analytical, detail-oriented, and highly observant. He has a strong sense of curiosity and a passion for understanding complex political dynamics. </personality_description>
+		<personality_traits>
+			<personality_trait_entry>
+				<personality_trait_name> Analytical </personality_trait_name>
+				<personality_trait_description> Mark has a keen eye for detail and excels at analyzing political trends and data. </personality_trait_description>
+			</personality_trait_entry>
+		</personality_traits>
+		<profanity_tendency> <!--Explanation: Profanity tendency is a measure of how likely the character is to use profanity in their speech. It is on the scale of 0 to 10, where 0 means the character never uses profanity and 10 means the character uses profanity very frequently.-->
+			<profanity_tendency_description> Mark has a low to moderate profanity tendency, occasionally using mild profanity in casual conversations or when emphasizing a point. </profanity_tendency_description> <!--Example: "Jack has a moderate profanity tendency, using profanity occasionally in his speech. His use of profanity is often a reflection of his rebellious nature and his desire to express himself in a more edgy and authentic way. However, he is also mindful of his image and may choose to limit his use of profanity in certain social situations." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			<profanity_tendency_entry>
+				<profanity_tendency_level> 3 </profanity_tendency_level> <!--Example: "5".-->
+				<profanity_tendency_example> Mark might use mild profanity like "damn" or "hell" in casual conversations, especially when he's frustrated or trying to make a point. </profanity_tendency_example> <!--Example: "Jack might use mild to moderate profanity like "damn", "hell", or "shit" in casual conversations with his peers, especially when he's frustrated or trying to make a point. However, in extreme situations, he may use stronger language to express his emotions." If profanity_tendency_level is set to 0, then set this to "N/A".-->
+			</profanity_tendency_entry>
+		</profanity_tendency>
+		<speech_style>
+			<speech_style_description> Mark's speech style is clear, concise, and well-structured, reflecting his analytical nature. </speech_style_description>
+			<speech_style_traits>
+				<speech_style_trait>
+					<speech_style_trait_name> Clear </speech_style_trait_name>
+					<speech_style_trait_description> Mark communicates his ideas in a straightforward and understandable manner. </speech_style_trait_description>
+				</speech_style_trait>
+			</speech_style_traits>
+		</speech_style>
+		<quirks> <!--Explanation: Quirks, for the purpose of this section, are defined as odd habits or unique behaviors.-->
+			<quirk_entry>
+				<quirk_name> Finger tapping </quirk_name>
+				<quirk_description> Mark has a habit of tapping his fingers when deep in thought. </quirk_description>
+			</quirk_entry>
+		</quirks>
+		<flaws> <!--Explanation: Flaws, for the purpose of this section, are defined as the internal "cracks" that make them human.-->
+			<flaw_entry>
+				<flaw_name> Perfectionism </flaw_name>
+				<flaw_description> Mark's desire for perfection can lead to overthinking and stress. </flaw_description>
+			</flaw_entry>
+		</flaws>
+	</personality_and_speech_data>
+	
+	<character_sensory_and_lifestyle_profile>
+		<drinking_preferences>
+			<drinking_preferences_description> Mark enjoys a variety of beverages, with a preference for non-alcoholic options. </drinking_preferences_description>
+			<drinking_preference_entry> <!--Explanation: An entry should specify a beverage like, for example, beer, rather than just generic alcohol, and a description of the character's preference.-->
+				<beverage> Tea </beverage>
+				<preference_description> Mark prefers a variety of teas, enjoying both traditional and herbal blends. </preference_description>
+			</drinking_preference_entry>
+		</drinking_preferences>
+		<food_preferences>
+			<food_preferences_description> Mark has a preference for healthy and balanced meals. </food_preferences_description>
+			<food_preference_entry>
+				<cuisine> Mediterranean </cuisine>
+				<preference_description> Mark enjoys Mediterranean cuisine for its fresh ingredients and balanced flavors. </preference_description>
+			</food_preference_entry>
+		</food_preferences>
+		<music_preferences>
+			<music_preferences_description> Mark has a diverse taste in music, appreciating various genres and styles. </music_preferences_description>
+			<music_preference_entry>
+				<genre> Classical </genre>
+				<preference_description> Mark enjoys classical music for its complexity and emotional depth. </preference_description>
+			</music_preference_entry>
+		</music_preferences>
+		<film_preferences> <!--Explanation: Film preferences including, for example, favorite genres or specific film/shows the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<film_preferences_description> Mark enjoys a variety of films, with a preference for thought-provoking and intellectually stimulating content. </film_preferences_description>
+			<film_preference_entry>
+				<genre> Documentary </genre>
+				<preference_description> Mark appreciates documentaries for their informative and educational value. </preference_description>
+			</film_preference_entry>
+		</film_preferences>
+		<literature_preferences> <!--Explanation: Literature preferences including, for example, favorite genres or specific books the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<literature_preferences_description> Mark enjoys a variety of literature, with a preference for thought-provoking and intellectually stimulating content. </literature_preferences_description>
+			<literature_preference_entry>
+				<genre> Non-fiction </genre>
+				<preference_description> Mark appreciates non-fiction books for their informative and educational value. </preference_description>
+			</literature_preference_entry>
+		</literature_preferences>
+		<video_game_preferences> <!--Explanation: Video game preferences including, for example, favorite genres or specific games the character enjoys. Otherwise, set values to "N/A" if not applicable.-->
+			<video_game_preferences_description> Mark does not have a strong preference for video games. </video_game_preferences_description>
+			<video_game_preference_entry>
+				<genre> N/A </genre>
+				<preference_description> N/A </preference_description>
+			</video_game_preference_entry>
+		</video_game_preferences>
+		<hobbies>
+			<hobbies_description> Mark enjoys a variety of hobbies that stimulate his mind and body. </hobbies_description>
+			<hobbies_entry>
+				<hobby> Reading </hobby>
+				<hobby_description> Mark enjoys reading books on various topics, particularly those that are intellectually stimulating. </hobby_description>
+			</hobbies_entry>
+		</hobbies>
+		<interests>
+			<interests_description> Mark has a wide range of interests that reflect his curiosity and desire for knowledge. </interests_description>
+			<interest> Science </interest>
+			<interest> Technology </interest>
+			<interest> Philosophy </interest>
+		</interests>
+	</character_sensory_and_lifestyle_profile>
+	
+	<character_goal_and_motivation_data>
+		<goals_and_motivations_description> Mark is driven by a desire to expand his knowledge and understanding of the world. </goals_and_motivations_description>
+		<internal_goal> <!--Explanation: What they want to feel or find internally—e.g., peace, belonging.-->
+			<internal_goal_entry>
+				<internal_goal_description> Achieve a deep understanding of the world </internal_goal_description> <!--Explanation: A short description of the internal goal.-->
+				<goal_motivation> Mark's internal goal is to achieve a deep understanding of the world around him, which drives his pursuit of knowledge and intellectual growth. </goal_motivation> <!--Explanation: A detailed description of how this internal goal motivates the character to pursue their external goals and navigate their relationships.-->
+			</internal_goal_entry>
+		</internal_goal>
+		<external_goal>
+			<external_goal_entry>
+				<external_goal_description> Apply knowledge in practical ways </external_goal_description> <!--Explanation: A short description of the external goal.-->
+				<goal_motivation> Mark's external goal is to apply his knowledge in practical ways, which motivates him to seek out opportunities for learning and growth. </goal_motivation> <!--Explanation: A detailed description of how this external goal motivates the character to pursue their internal goals and navigate their relationships.-->
+			</external_goal_entry>
+		</external_goal> <!--Explanation: The tangible thing they are trying to achieve in the world.-->
+		<the_why> <!--Explanation: The specific reason or trauma that fuels these goals.-->
+			<the_why_entry>
+				<reason_description></reason_description> <!--Explanation: A short description of the reason behind the goal.-->
+				<reason_motivation> Mark's motivation is driven by a deep curiosity and a desire to understand the complexities of the world. </reason_motivation> <!--Explanation: A detailed description of how this reason motivates the character to pursue their goals.-->
+			</the_why_entry>
+		</the_why>
+		<aspirations>
+			<aspiration>
+				<aspiration_description> Become a renowned expert in his field </aspiration_description> <!--Explanation: Short description of the aspiration, such as "Become a detective", "Find true love", "Achieve world peace", or any other aspiration that is relevant to the character's role in the story.-->
+				<aspiration_motivation> Mark aspires to become a renowned expert in his field, which drives him to continuously seek knowledge and improve his skills. </aspiration_motivation> <!--Explanation: A detailed description of how this aspiration motivates the character to pursue their goals.-->
+			</aspiration>
+		</aspirations>
+	</character_goal_and_motivation_data>
+	
+	<character_background>
+		<character_background_description> Mark is a highly intellectual individual with a passion for learning and a deep curiosity about the world. </character_background_description>
+		<family_background> Mark comes from a family of scholars and educators, which has greatly influenced his intellectual pursuits. </family_background>
+		<childhood_and_upbringing> Mark's childhood was filled with books, discussions, and a strong emphasis on education, shaping his inquisitive nature and love for learning. </childhood_and_upbringing>
+	</character_background>
+	
+	<character_relationship_data>
+		<relationship_entry>
+			<relationship_type></relationship_type>
+			<relationship_dynamic></relationship_dynamic> <!--Explanation: The relationship dynamic describes the nature of the relationship between the character and the other character, such as "Best friends", "Siblings", "Romantic partners", "Rivals", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<latent_dynamic></latent_dynamic> <!--Explanation: The latent dynamic describes the underlying emotional or psychological forces that influence the relationship between the character and the other character, such as "Unresolved sibling rivalry", "Shared trauma", "Unspoken romantic tension", or any other dynamic that is relevant to the characters' interactions in the story.-->
+			<relationship_name></relationship_name>
+			<relationship_description></relationship_description>
+		</relationship_entry>
+	</character_relationship_data>
+	
+	<character_memberships>
+		<groups> <!--Explanation: Groups including, for example, clubs, teams, or other social organizations the character is part of.-->
+			<group>
+				<group_name></group_name>
+				<group_type></group_type> <!--Explanation: The type of group, such as "Sports team", "Academic club", "Social group", "Extracurricular activity", etc.-->
+				<group_description></group_description>
+			</group>
+		</groups>
+		<institutions> <!--Explanation: Institutions including, for example, schools, universities, or other organizations the character is part of.-->
+			<institution>
+				<institution_name> University of Harvard </institution_name>
+				<institution_type> Higher education institution </institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status> Alumnus </institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> Mark is an alumnus of the University of Harvard, where he graduated with a master's degree in political science. </institution_description>
+			</institution>
+			<institution>
+				<institution_name> Thompson Group </institution_name>
+				<institution_type> Political think-tank </institution_type> <!--Explanation: The type of institution, such as "Secondary education institution", "Higher education institution", "Research institution", "Family business", etc.-->
+				<institution_status> Current executive </institution_status> <!--Explanation: The character's current status at the institution, such as "Current student", "Alumnus", "Faculty", etc.-->
+				<institution_description> Thompson Group is a political think-tank, founded by Mark Thompson, with expertise in political research and analysis. </institution_description>
+			</institution>
+		</institutions>
+		<families>
+			<family>
+				<family_name> Thompson </family_name>
+				<family_relation> By birth </family_relation> <!--Explanation: Indicates how the character is related to the family, whether by birth or by marriage.-->
+				<family_head> Mark Thompson </family_head> <!--Explanation: The head of the family, such as "John Longworth-Woodward", "N/A" if not applicable.-->
+				<family_description> The Thompson family is known for their contributions to education and political research. </family_description>
+			</family>
+		</families>
+	</character_memberships>
+</character_data>
