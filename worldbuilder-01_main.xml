@@ -16,59 +16,59 @@
 	<social_media_registry>
 		<social_media_accounts>
 			<!--People-->
-			<social_media_account_entry id="character:101" type="person" name="Donald Trump" role="President of the United States" posted_from="Earth" use_emojis="no"> <!--Donald Trump-->
+			<social_media_account_entry id="character:101" type="person" name="Donald Trump" role="President of the United States" posted_from="Earth" use_emojis="no" posts_in_feeds="feed:earth_reactions1, feed:earth_reactions2" can_reply_in_other_feeds="yes" will_reply_in_other_feeds_chance="0.1"> <!--Donald Trump-->
 				<behavior_tone_constraints> Use confident, superlative-heavy language. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @realDonaldTrump </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="character:102" type="person" name="Elon Musk" role="CEO of SpaceX" posted_from="Earth" use_emojis="yes"> <!--Elon Musk-->
+			<social_media_account_entry id="character:102" type="person" name="Elon Musk" role="CEO of SpaceX" posted_from="Earth" use_emojis="yes" posts_in_feeds="feed:earth_reactions1, feed:earth_reactions2"> <!--Elon Musk-->
 				<behavior_tone_constraints> Use witty, tech-savvy language. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @ElonMusk </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="character:103" type="person" name="Dr. Jane Smith" role="Space scientist" posted_from="Alpha Centauri" use_emojis="yes"> <!--Dr. Jane Smith-->
+			<social_media_account_entry id="character:103" type="person" name="Dr. Jane Smith" role="Space scientist" posted_from="Alpha Centauri" use_emojis="yes" posts_in_feeds="feed:space_colonies_reactions1, feed:alpha_centauri_reactions2"> <!--Dr. Jane Smith-->
 				<behavior_tone_constraints> Use scientific, analytical language. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @DrJaneSmith </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="character:104" type="person" name="Admiral John Doe" role="Space Navy" posted_from="Earth" use_emojis="no"> <!--Admiral John Doe-->
+			<social_media_account_entry id="character:104" type="person" name="Admiral John Doe" role="Space Navy" posted_from="Earth" use_emojis="no" posts_in_feeds="feed:earth_reactions1, feed:earth_reactions2"> <!--Admiral John Doe-->
 				<behavior_tone_constraints> Use authoritative, military tone. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @AdmiralJohnDoe </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="character:105" type="person" name="Colonel Sarah Lee" role="Luna colony" posted_from="Luna" use_emojis="yes"> <!--Colonel Sarah Lee-->
+			<social_media_account_entry id="character:105" type="person" name="Colonel Sarah Lee" role="Luna colony" posted_from="Luna" use_emojis="yes" posts_in_feeds="feed:space_colonies_reactions1, feed:space_colonies_reactions2"> <!--Colonel Sarah Lee-->
 				<behavior_tone_constraints> Use pragmatic, leadership tone. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @ColonelSarahLee </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="character:106" type="person" name="Dr. Emily Chen" role="Alpha Centauri scientist" posted_from="Alpha Centauri" use_emojis="yes"> <!--Dr. Emily Chen-->
+			<social_media_account_entry id="character:106" type="person" name="Dr. Emily Chen" role="Alpha Centauri scientist" posted_from="Alpha Centauri" use_emojis="yes" posts_in_feeds="feed:alpha_centauri_reactions1, feed:alpha_centauri_reactions2"> <!--Dr. Emily Chen-->
 				<behavior_tone_constraints> Use scientific, analytical language. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @DrEmilyChen </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="character:107" type="person" name="Mark Thompson" role="Political analyst" posted_from="Earth" use_emojis="no"> <!--Mark Thompson-->
+			<social_media_account_entry id="character:107" type="person" name="Mark Thompson" role="Political analyst" posted_from="Earth" use_emojis="no" posts_in_feeds="feed:earth_reactions1, feed:earth_reactions2"> <!--Mark Thompson-->
 				<behavior_tone_constraints> Use analytical, political commentary tone. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @MarkThompson </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="character:108" type="person" name="Lisa Rodriguez" role="Space strategist" posted_from="Alpha Centauri" use_emojis="yes"> <!--Lisa Rodriguez-->
+			<social_media_account_entry id="character:108" type="person" name="Lisa Rodriguez" role="Space strategist" posted_from="Alpha Centauri" use_emojis="yes" posts_in_feeds="feed:space_colonies_reactions1, feed:alpha_centauri_reactions2"> <!--Lisa Rodriguez-->
 				<behavior_tone_constraints> Use strategic, forward-thinking language. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @Lisa_Rodriguez </social_media_handle>
 			</social_media_account_entry>
 			
 			<!--Establishments-->
-			<social_media_account_entry id="establishment:jupiter_pub_and_grill" type="establishment" name="Jupiter Pub and Grill" role="Bar and grill" posted_from="Jupiter Station" use_emojis="yes"> <!--Jupiter Pub and Grill-->
+			<social_media_account_entry id="establishment:jupiter_pub_and_grill" type="establishment" name="Jupiter Pub and Grill" role="Bar and grill" posted_from="Jupiter Station" use_emojis="yes" posts_in_feeds="feed:space_colonies_reactions1, feed:space_colonies_reactions2"> <!--Jupiter Pub and Grill-->
 				<behavior_tone_constraints> Must include a themed "Drink special." </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @JupiterPub_and_Grill </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="establishment:craters_edge_pub" type="establishment" name="Craters Edge Pub" role="Pub" posted_from="Luna" use_emojis="yes"> <!--Craters Edge Pub-->
+			<social_media_account_entry id="establishment:craters_edge_pub" type="establishment" name="Craters Edge Pub" role="Pub" posted_from="Luna" use_emojis="yes" posts_in_feeds="feed:space_colonies_reactions1, feed:space_colonies_reactions2"> <!--Craters Edge Pub-->
 				<behavior_tone_constraints> Must include a themed "Menu item." </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @CratersEdgePub </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="establishment:alpha_pub_hub" type="establishment" name="Alpha Pub Hub" role="Pub" posted_from="Alpha Centauri" use_emojis="yes"> <!--Alpha Pub Hub-->
+			<social_media_account_entry id="establishment:alpha_pub_hub" type="establishment" name="Alpha Pub Hub" role="Pub" posted_from="Alpha Centauri" use_emojis="yes" posts_in_feeds="feed:space_colonies_reactions1, feed:alpha_centauri_reactions2"> <!--Alpha Pub Hub-->
 				<behavior_tone_constraints> Must include a themed "Drink special." </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @Alpha_Pub_Hub </social_media_handle>
 			</social_media_account_entry>
 			
 			<!--News organizations-->
-			<social_media_account_entry id="organization:cnn" type="news_organization" name="CNN Space News" role="News organization" posted_from="Earth" use_emojis="yes"> <!--CNN Space News-->
+			<social_media_account_entry id="organization:cnn" type="news_organization" name="CNN Space News" role="News organization" posted_from="Earth" use_emojis="yes" posts_in_feeds="feed:earth_reactions1, feed:earth_reactions2"> <!--CNN Space News-->
 				<behavior_tone_constraints> Use formal, journalistic tone. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @CNN_SpaceNews </social_media_handle>
 			</social_media_account_entry>
-			<social_media_account_entry id="organization:fox" type="news_organization" name="Fox Space News" role="News organization" posted_from="Earth" use_emojis="yes"> <!--Fox Space News-->
+			<social_media_account_entry id="organization:fox" type="news_organization" name="Fox Space News" role="News organization" posted_from="Earth" use_emojis="yes" posts_in_feeds="feed:earth_reactions1, feed:earth_reactions2"> <!--Fox Space News-->
 				<behavior_tone_constraints> Use sensational, opinionated tone. </behavior_tone_constraints>
 				<social_media_handle platform="Twitter/X" audience="public"> @Fox_SpaceNews </social_media_handle>
 			</social_media_account_entry>
